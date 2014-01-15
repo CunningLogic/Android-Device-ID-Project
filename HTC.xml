@@ -360,4 +360,11 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
+        <device>
+        <displayname>Evo View 4G</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
 </devices>
