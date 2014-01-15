@@ -160,9 +160,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <displayname>Wildfire S</displayname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>Wildfire S A510e</ro.product.model>
+        <ro.product.device>marvel</ro.product.device>
+        <ro.product.board>marvel</ro.product.board>
         <description></description>
     </device>
     <device>
