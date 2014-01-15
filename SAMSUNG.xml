@@ -1069,10 +1069,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9505X</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Galaxy S4 GPE</commonname>
+        <ro.product.model>GT-I9505G</ro.product.model>
+        <ro.product.device>jgedlte</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
