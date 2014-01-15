@@ -1048,10 +1048,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Galaxy S$</commonname>
         <ro.product.model>GT-I9500</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ja3g</ro.product.device>
+        <ro.product.board>universal5410</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -1066,13 +1066,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9505</ro.product.model>
         <ro.product.device>jflte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9505G</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
@@ -3239,10 +3232,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Galaxy S4</commonname>
         <ro.product.model>SCH-I545</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>jfltevzw</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -3393,11 +3386,11 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Galaxy S4</commonname>
         <ro.product.model>SGH-I337</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.device>jflteatt</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Actual model is SGH-I337</description>
     </device>
     <device>
         <commonname></commonname>
@@ -3463,11 +3456,11 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>SGH-I747</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <commonname>Galaxy S3</commonname>
+        <ro.product.model>SAMSUNG-SGH-I747</ro.product.model>
+        <ro.product.device>d2att</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Actual model is SGH-I747</description>
     </device>
     <device>
         <commonname></commonname>
@@ -3646,10 +3639,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>SM-N900A</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.model>SAMSUNG-SM-N900A</ro.product.model>
+        <ro.product.device>hlteatt</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Actual model is SM-N900A</description>
     </device>
     <device>
         <commonname></commonname>
@@ -3694,10 +3687,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Note 3</commonname>
         <ro.product.model>SM-N900V</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>hltevzw</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
