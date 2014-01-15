@@ -1,4 +1,21 @@
 Android-Device-ID-Project
 =========================
 
-Freely available (GPLv3) xml files for the identification of Android devices
+Freely available (GPLv3) xml files for the identification of Android devices.
+
+How to contribute:
+
+1) Fork
+2) Fill in missing devices.
+3) Pull request
+
+or if it is a minor correction, fill an issue if you wish.
+
+
+If a device has more than one common name (happens often with HTC), use the
+most common name.
+
+If a device has more than one model number (happens often with Samsung and
+LGe), make a new entry for each model number.
+
+It is better to have incomplete entries, then erronous entries.
