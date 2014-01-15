@@ -19,105 +19,350 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="SONY">
     <device>
-        <displayname>Xperia X10</displayname>
+        <displayname>Xperia T2 Ultra Dual</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia X10 mini pro</displayname>
+    </device>
+    <device>
+        <displayname>Xperia E1</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia X10 mini</displayname>
+    </device>
+    <device>
+        <displayname>Xperia E1 Dual</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia X8</displayname>
+    </device>
+    <device>
+        <displayname>Xperia Z1 Compact</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia arc</displayname>
+    </device>
+    <device>
+        <displayname>Xperia T2 Ultra</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia neo</displayname>
+    </device>
+    <device>
+        <displayname>Xperia M Dual</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia Play</displayname>
+    </device>
+    <device>
+        <displayname>Xperia Z1</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia acro</displayname>
+    </device>
+    <device>
+        <displayname>Xperia M</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia mini pro</displayname>
+    </device>
+    <device>
+        <displayname>Xperia C</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia mini</displayname>
+    </device>
+    <device>
+        <displayname>Xperia Z Ultra</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia ray</displayname>
+    </device>
+    <device>
+        <displayname>Xperia ZR</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia arc S</displayname>
+    </device>
+    <device>
+        <displayname>Xperia SP</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia neo v</displayname>
+    </device>
+    <device>
+        <displayname>Xperia E</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
+    </device>
+    <device>
+        <displayname>Xperia ZL</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia Z</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia E Dual</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia V</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia J</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia T</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia TX</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia miro</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia tipo dual</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia SL</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia tipo</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia acro S</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia ion HSPA</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia go</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo L</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>    
+    <device>
+        <displayname>Xperia ion LTE</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>   
+    <device>
+        <displayname>Xperia U</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>   
+    <device>
+        <displayname>Xperia P</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>   
+    <device>
+        <displayname>Xperia sola</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia S</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Live with Walkman</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia pro</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo V</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Sony Ericcson txt</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <displayname>Xperia active</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-	</device>
-	<device>
-        <displayname>Xperia pro</displayname>
+    </device>
+    <device>
+        <displayname>Xperia arc S</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia ray</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Mix Walkman Phone</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia mini</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia mini pro</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Sony Ericcsson txt pro</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia PLAY</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia arc</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X8</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Zylo</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10</displayname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
