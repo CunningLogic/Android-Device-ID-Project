@@ -25,11 +25,4 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board>mahimahi</ro.product.board>
         <description></description>
     </device>
-    <device>
-        <displayname>Google Galaxy Nexus (GSM)</displayname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
-        <ro.product.device>maguro</ro.product.device>
-        <ro.product.board>tuna</ro.product.board>
-        <description></description>
-    </device>
 </devices>
