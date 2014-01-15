@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2014 Jon Sawyer
+
+This file is part of the Android Device ID Project (ADID).
+
+ADID is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your
+option) any later version.
+
+ADID is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
+License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar. If not, see http://www.gnu.org/licenses/.
+-->
+<devices vendor="SONYERICSSON">
+    <device>
+        <displayname>Xperia acro</displayname>
+        <ro.product.model>IS11S</ro.product.model>
+        <ro.product.device>akane</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia acro</displayname>
+        <ro.product.model>SO-02C</ro.product.model>
+        <ro.product.device>azusa</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia active</displayname>
+        <ro.product.model>ST17a</ro.product.model>
+        <ro.product.device>satsuma</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia active</displayname>
+        <ro.product.model>ST17i</ro.product.model>
+        <ro.product.device>satsuma</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia arc</displayname>
+        <ro.product.model>LT15a</ro.product.model>
+        <ro.product.device>anzu</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia arc</displayname>
+        <ro.product.model>LT15i</ro.product.model>
+        <ro.product.device>anzu</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia arc S</displayname>
+        <ro.product.model>LT18a</ro.product.model>
+        <ro.product.device>ayame</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia arc S</displayname>
+        <ro.product.model>LT18i</ro.product.model>
+        <ro.product.device>ayame</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia mini</displayname>
+        <ro.product.model>ST15a</ro.product.model>
+        <ro.product.device>smultron</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia mini</displayname>
+        <ro.product.model>ST15i</ro.product.model>
+        <ro.product.device>smultron</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia mini pro</displayname>
+        <ro.product.model>SK17</ro.product.model>
+        <ro.product.device>mango</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia mini pro</displayname>
+        <ro.product.model>SK17i</ro.product.model>
+        <ro.product.device>mango</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo</displayname>
+        <ro.product.model>MT15a</ro.product.model>
+        <ro.product.device>hallon</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo</displayname>
+        <ro.product.model>MT15i</ro.product.model>
+        <ro.product.device>hallon</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo L</displayname>
+        <ro.product.model>MT25i</ro.product.model>
+        <ro.product.device>phoenix</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo V</displayname>
+        <ro.product.model>MT11a</ro.product.model>
+        <ro.product.device>haida</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia neo V</displayname>
+        <ro.product.model>MT11i</ro.product.model>
+        <ro.product.device>haida</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia Play</displayname>
+        <ro.product.model>R800a</ro.product.model>
+        <ro.product.device>zeus</ro.product.device>
+        <ro.product.board>zeus</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia Play</displayname>
+        <ro.product.model>R800at</ro.product.model>
+        <ro.product.device>zeus</ro.product.device>
+        <ro.product.board>zeus</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia Play</displayname>
+        <ro.product.model>R800i</ro.product.model>
+        <ro.product.device>zeus</ro.product.device>
+        <ro.product.board>zeus</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia Play</displayname>
+        <ro.product.model>R800x</ro.product.model>
+        <ro.product.device>zeus</ro.product.device>
+        <ro.product.board>zeusc</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia pro</displayname>
+        <ro.product.model>MK16a</ro.product.model>
+        <ro.product.device>iyokan</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia pro</displayname>
+        <ro.product.model>MK16i</ro.product.model>
+        <ro.product.device>iyokan</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia ray</displayname>
+        <ro.product.model>ST18a</ro.product.model>
+        <ro.product.device>urushi</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia ray</displayname>
+        <ro.product.model>ST18i</ro.product.model>
+        <ro.product.device>urushi</ro.product.device>
+        <ro.product.board>mogami</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X8</displayname>
+        <ro.product.model>E15a</ro.product.model>
+        <ro.product.device>shakira</ro.product.device>
+        <ro.product.board>delta</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X8</displayname>
+        <ro.product.model>E15i</ro.product.model>
+        <ro.product.device>shakira</ro.product.device>
+        <ro.product.board>delta</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10</displayname>
+        <ro.product.model>X10a</ro.product.model>
+        <ro.product.device>es209ra</ro.product.device>
+        <ro.product.board>es209ra</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10</displayname>
+        <ro.product.model>X10i</ro.product.model>
+        <ro.product.device>es209ra</ro.product.device>
+        <ro.product.board>es209ra</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10 mini</displayname>
+        <ro.product.model>E10a</ro.product.model>
+        <ro.product.device>robyn</ro.product.device>
+        <ro.product.board>delta</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10 mini</displayname>
+        <ro.product.model>E10i</ro.product.model>
+        <ro.product.device>robyn</ro.product.device>
+        <ro.product.board>delta</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10 mini pro</displayname>
+        <ro.product.model>U20a</ro.product.model>
+        <ro.product.device>mimmi</ro.product.device>
+        <ro.product.board>delta</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Xperia X10 mini pro</displayname>
+        <ro.product.model>U20i</ro.product.model>
+        <ro.product.device>mimmi</ro.product.device>
+        <ro.product.board>delta</ro.product.board>
+        <description></description>
+    </device>
+</devices>
