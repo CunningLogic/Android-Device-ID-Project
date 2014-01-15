@@ -97,15 +97,15 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Evo 4G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.model>PC36100</ro.product.model>
+        <ro.product.device>supersonic</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Desire HD</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>ace</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -113,6 +113,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>G2</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Desire Z</commonname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device>vision</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -153,7 +160,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Incredible S</commonname>
-        <ro.product.model></ro.product.model>
+        <ro.product.model>vivo</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -182,7 +189,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Sensation</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>pyramid</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -203,7 +210,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Evo 3D</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>shooter</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -224,7 +231,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Evo 3D</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>shooteru</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -287,14 +294,14 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>One XL</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>evita</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>One S</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>ville</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -308,7 +315,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Evo 4G LTE</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>jewel</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -323,6 +330,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Desire C</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Desire S</commonname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device>saga</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
