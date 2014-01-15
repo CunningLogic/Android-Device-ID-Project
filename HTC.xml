@@ -373,6 +373,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>m7</ro.product.device>
         <ro.product.board>APQ8064</ro.product.board>
         <description></description>
+        <storage type="emmc" device="mmcblk0">
+            <system>mmcblk0p35</system>
+            <userdata>mmcblk0p37</userdata>
+            <cache>mmcblk0p36</cache>
+            <boot>mmcblk0p33</boot>
+            <recovery>mmcblk0p34</recovery>
+        </storage>
     </device>
     <device>
         <commonname>Evo View 4G</commonname>
