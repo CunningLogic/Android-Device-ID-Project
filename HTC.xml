@@ -369,12 +369,19 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>One</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>HTC One</ro.product.model>
+        <ro.product.device>m7</ro.product.device>
+        <ro.product.board>APQ8064</ro.product.board>
         <description></description>
+        <storage type="emmc" device="mmcblk0">
+            <system>mmcblk0p35</system>
+            <userdata>mmcblk0p37</userdata>
+            <cache>mmcblk0p36</cache>
+            <boot>mmcblk0p33</boot>
+            <recovery>mmcblk0p34</recovery>
+        </storage>
     </device>
-        <device>
+    <device>
         <commonname>Evo View 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
