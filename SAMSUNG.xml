@@ -3645,10 +3645,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Note 3</commonname>
         <ro.product.model>SM-N9005</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>hlte</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
