@@ -19,3 +19,9 @@ If a device has more than one model number (happens often with Samsung and
 LGe), make a new entry for each model number.
 
 It is better to have incomplete entries, then erronous entries.
+
+Please have the filename be capitalized, with a lower case file extension.
+
+
+Special Thanks to all contributors:
+Adam Lange
