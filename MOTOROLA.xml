@@ -19,7 +19,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="Motorola">
     <device>
-        <commonname>Motorola Razr</commnonname>
+        <commonname>Razr</commnonname>
         <ro.product.model>XT910</ro.product.model>
         <ro.product.device>umts_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>

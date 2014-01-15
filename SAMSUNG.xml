@@ -292,7 +292,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Samsung Galaxy Ace</commonname>
+        <commonname>Galaxy Ace</commonname>
         <ro.product.model>GT-I8160</ro.product.model>
         <ro.product.device>GT-I8160</ro.product.device>
         <ro.product.board>codinal</ro.product.board>
@@ -1027,7 +1027,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Samsung S3</commonname>
+        <commonname>Galaxy S3</commonname>
         <ro.product.model>GT-I9300</ro.product.model>
         <ro.product.device>m0</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
@@ -1097,7 +1097,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Samsung S4</commonname>
+        <commonname>Galaxy S4</commonname>
         <ro.product.model>GT-I9505</ro.product.model>
         <ro.product.device>jflte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
@@ -3771,7 +3771,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Samsung Galaxy Note 10.1 2014 edition</commonname>
+        <commonname>Galaxy Note 10.1 2014 edition</commonname>
         <ro.product.model>SM-P605</ro.product.model>
         <ro.product.device>lt03lte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
