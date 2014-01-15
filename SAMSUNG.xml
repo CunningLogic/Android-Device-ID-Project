@@ -972,41 +972,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>GT-I9250</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Samsung Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
-        <ro.product.device>maguro</ro.product.device>
-        <ro.product.board>tuna</ro.product.board>
-        <description>The product model should be I9250 but i got Galaxy Nexus instead</description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9250J</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9250M</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9250T</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>GT-I9260</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
