@@ -1146,6 +1146,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Samsung Note 2</commonname>
+        <ro.product.model>GT-N7105</ro.product.model>
+        <ro.product.device>t0lte</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname></commonname>
         <ro.product.model>GT-I9508C</ro.product.model>
         <ro.product.device></ro.product.device>
