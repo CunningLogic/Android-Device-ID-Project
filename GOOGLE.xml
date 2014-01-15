@@ -61,6 +61,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>Actual model is SPH-L700</description>
     </device>
     <device>
+        <commonname>Google Glass XE12</commonname>
+        <ro.product.model>Galaxy 1</ro.product.model>
+        <ro.product.device>glass-1</ro.product.device>
+        <ro.product.board>notle</ro.product.board>
+        <description>Google Glass first edition (XE12)</description>
+    </device>
+    <device>
         <commonname>Nexus One</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>passion</ro.product.device>
