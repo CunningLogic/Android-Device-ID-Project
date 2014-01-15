@@ -18,7 +18,11 @@ most common name.
 If a device has more than one model number (happens often with Samsung and
 LGe), make a new entry for each model number.
 
-It is better to have incomplete entries, then erronous entries.
+If for the ro. values, use exact build.prop properties, even if a conflict
+exists. Note conflicts in description (see Galaxy Nexus).
+
+
+It is better to have incomplete entries, then erroneous entries.
 
 Please have the filename be capitalized, with a lower case file extension.
 
