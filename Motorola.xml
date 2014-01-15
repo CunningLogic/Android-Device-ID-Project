@@ -19,7 +19,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="Motorola">
     <device>
-        <displayname>Motorola Razr</displayname>
+        <displayname>Motorola RAZR XT910</displayname>
         <ro.product.model>XT910</ro.product.model>
         <ro.product.device>umts_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
@@ -30,6 +30,27 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1032</ro.product.model>
         <ro.product.device>falcon_umts</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Motorola XYBOARD 8.2</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Motorola Bravo</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Motorola Milestone XT720</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
         <description></description>
     </device>
 </devices>
