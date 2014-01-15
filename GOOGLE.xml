@@ -20,52 +20,59 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 <devices vendor="GOOGLE">
     <device>
         <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
+        <ro.product.model>GT-i9250</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is GT-i9250</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
         <ro.product.model>GT-i9250T</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is GT-i9250T</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
+        <ro.product.model>SHW-M420K</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is SHW-M420K</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
+        <ro.product.model>SHW-M420S</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is SHW-M420S</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
+        <ro.product.model>SCH-i515</ro.product.model>
         <ro.product.device>toro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual models are SCH-i515, SCH-i516</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
-        <ro.product.device>toroplus</ro.product.device>
+        <ro.product.model>SCH-i516</ro.product.model>
+        <ro.product.device>toro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is SPH-L700</description>
+        <description>SCH-i516</description>
     </device>
     <device>
-        <commonname>Google Glass XE12</commonname>
-        <ro.product.model>Galaxy 1</ro.product.model>
+        <commonname>Galaxy Nexus</commonname>
+        <ro.product.model>SPH-L700</ro.product.model>
+        <ro.product.device>toroplus</ro.product.device>
+        <ro.product.board>tuna</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Google Glass</commonname>
+        <ro.product.model>XE12</ro.product.model>
         <ro.product.device>glass-1</ro.product.device>
         <ro.product.board>notle</ro.product.board>
-        <description>Google Glass first edition (XE12)</description>
+        <description></description>
     </device>
     <device>
         <commonname>Nexus One</commonname>
