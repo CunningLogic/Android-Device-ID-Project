@@ -19,315 +19,315 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="HTC">
     <device>
-        <displayname>G1</displayname>
+        <commonname>G1</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>myTouch 3G</displayname>
+        <commonname>myTouch 3G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Hero</displayname>
+        <commonname>Hero</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Tattoo</displayname>
+        <commonname>Tattoo</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Droid Eris</displayname>
+        <commonname>Droid Eris</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Desire</displayname>
+        <commonname>Desire</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Droid Incredible</displayname>
+        <commonname>Droid Incredible</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Legend</displayname>
+        <commonname>Legend</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Wildfire</displayname>
+        <commonname>Wildfire</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>myTouch 3G Slide</displayname>
+        <commonname>myTouch 3G Slide</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Aria</displayname>
+        <commonname>Aria</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo 4G</displayname>
+        <commonname>Evo 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Desire HD</displayname>
+        <commonname>Desire HD</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>G2</displayname>
+        <commonname>G2</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>myTouch 4G</displayname>
+        <commonname>myTouch 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Gratia</displayname>
+        <commonname>Gratia</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Inspire 4G</displayname>
+        <commonname>Inspire 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Thunderbolt</displayname>
+        <commonname>Thunderbolt</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo Shift 4G</displayname>
+        <commonname>Evo Shift 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Incredible S</displayname>
+        <commonname>Incredible S</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Wildfire S</displayname>
+        <commonname>Wildfire S</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Incredible 2</displayname>
+        <commonname>Incredible 2</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Merge</displayname>
+        <commonname>Merge</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Sensation</displayname>
+        <commonname>Sensation</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>ChaCha</displayname>
+        <commonname>ChaCha</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Salsa</displayname>
+        <commonname>Salsa</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo 3D</displayname>
+        <commonname>Evo 3D</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>myTouch 4G Slide</displayname>
+        <commonname>myTouch 4G Slide</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo 4G+</displayname>
+        <commonname>Evo 4G+</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo 3D</displayname>
+        <commonname>Evo 3D</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Vivid 4G</displayname>
+        <commonname>Vivid 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Rhyme</displayname>
+        <commonname>Rhyme</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo Design 4G</displayname>
+        <commonname>Evo Design 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Amaze 4G</displayname>
+        <commonname>Amaze 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Explorer</displayname>
+        <commonname>Explorer</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Sensation XE</displayname>
+        <commonname>Sensation XE</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Rezound</displayname>
+        <commonname>Rezound</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>One X</displayname>
+        <commonname>One X</commonname>
         <ro.product.model>EndeavorU</ro.product.model>
         <ro.product.device>endeavoru</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>One XL</displayname>
+        <commonname>One XL</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>One S</displayname>
+        <commonname>One S</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>One V</displayname>
+        <commonname>One V</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Evo 4G LTE</displayname>
+        <commonname>Evo 4G LTE</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>J</displayname>
+        <commonname>J</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Desire C</displayname>
+        <commonname>Desire C</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Incredible 4G LTE</displayname>
+        <commonname>Incredible 4G LTE</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -340,28 +340,28 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <displayname>Desire X</displayname>
+        <commonname>Desire X</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>J Butterfly</displayname>
+        <commonname>J Butterfly</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>One</displayname>
+        <commonname>One</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
         <device>
-        <displayname>Evo View 4G</displayname>
+        <commonname>Evo View 4G</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>

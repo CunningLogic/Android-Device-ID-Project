@@ -19,161 +19,161 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="GOOGLE">
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>GT-i9250</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>GT-i9250T</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>SHW-M420K</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>SHW-M420S</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>SCH-i515</ro.product.model>
         <ro.product.device>toro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>SCH-i516</ro.product.model>
         <ro.product.device>toro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Galaxy Nexus</displayname>
+        <commonname>Galaxy Nexus</commonname>
         <ro.product.model>SPH-L700</ro.product.model>
         <ro.product.device>toroplus</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus One</displayname>
+        <commonname>Nexus One</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>passion</ro.product.device>
         <ro.product.board>mahimahi</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus Q</displayname>
+        <commonname>Nexus Q</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>phantasm</ro.product.device>
         <ro.product.board>steelhead</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus S</displayname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9020</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus S</displayname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9020A</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus S</displayname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9020T</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus S</displayname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9023</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus S</displayname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>SHW-M200</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus S 4G</displayname>
+        <commonname>Nexus S 4G</commonname>
         <ro.product.model>SPH-D720</ro.product.model>
         <ro.product.device>crespo4g</ro.product.device>
         <ro.product.board>herring</ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 4</displayname>
+        <commonname>Nexus 4</commonname>
         <ro.product.model>LG-E960</ro.product.model>
         <ro.product.device>mako</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 5</displayname>
+        <commonname>Nexus 5</commonname>
         <ro.product.model>LG-D820</ro.product.model>
         <ro.product.device>hammerhead</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 5</displayname>
+        <commonname>Nexus 5</commonname>
         <ro.product.model>LG-D821</ro.product.model>
         <ro.product.device>hammerhead</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 7 (2012)</displayname>
+        <commonname>Nexus 7 (2012)</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>grouper</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 7 (2012)</displayname>
+        <commonname>Nexus 7 (2012)</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>tilapia</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 7 (2013)</displayname>
+        <commonname>Nexus 7 (2013)</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>flo</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 7 (2013)</displayname>
+        <commonname>Nexus 7 (2013)</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device>deb</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Nexus 10</displayname>
+        <commonname>Nexus 10</commonname>
         <ro.product.model>GT-P8110</ro.product.model>
         <ro.product.device>manta</ro.product.device>
         <ro.product.board></ro.product.board>

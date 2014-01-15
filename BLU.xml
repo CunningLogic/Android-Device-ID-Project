@@ -19,175 +19,175 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="BLU">
     <device>
-        <displayname>Dash JR</displayname>
+        <commonname>Dash JR</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Dash 3.5</displayname>
+        <commonname>Dash 3.5</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Dash 4.0</displayname>
+        <commonname>Dash 4.0</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Dash 4.5</displayname>
+        <commonname>Dash 4.5</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Dash 5.0</displayname>
+        <commonname>Dash 5.0</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Dash Music 4.0</displayname>
+        <commonname>Dash Music 4.0</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Vivo 4.3</displayname>
+        <commonname>Vivo 4.3</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Studio 5.0</displayname>
+        <commonname>Studio 5.0</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Studio 5.0 S</displayname>
+        <commonname>Studio 5.0 S</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Studio 5.3 S</displayname>
+        <commonname>Studio 5.3 S</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Studio 5.5</displayname>
+        <commonname>Studio 5.5</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Studio 5.0 II</displayname>
+        <commonname>Studio 5.0 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life Pure</displayname>
+        <commonname>Life Pure</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life Pro</displayname>
+        <commonname>Life Pro</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life View</displayname>
+        <commonname>Life View</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life One</displayname>
+        <commonname>Life One</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life Play X</displayname>
+        <commonname>Life Play X</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life Play</displayname>
+        <commonname>Life Play</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life Play S</displayname>
+        <commonname>Life Play S</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life One X</displayname>
+        <commonname>Life One X</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life One M</displayname>
+        <commonname>Life One M</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Life View Tab</displayname>
+        <commonname>Life View Tab</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Advance 4.0</displayname>
+        <commonname>Advance 4.0</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Amour</displayname>
+        <commonname>Amour</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <displayname>Tank 4.5</displayname>
+        <commonname>Tank 4.5</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
