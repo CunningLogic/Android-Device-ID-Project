@@ -25,4 +25,11 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board>mahimahi</ro.product.board>
         <description></description>
     </device>
+    <device>
+        <displayname>Google Nexus 7 2013 edition</displayname>
+        <ro.product.model>Nexus 7</ro.product.model>
+        <ro.product.device>flo</ro.product.device>
+        <ro.product.board>flo</ro.product.board>
+        <description></description>
+    </device>
 </devices>
