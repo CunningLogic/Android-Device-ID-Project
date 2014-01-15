@@ -175,7 +175,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Incredible 2</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device>vivo</ro.product.device>
+        <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
