@@ -25,4 +25,11 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board>spyder</ro.product.board>
         <description></description>
     </device>
+    <device>
+        <displayname>Motorola Moto G</displayname>
+        <ro.product.model>XT1032</ro.product.model>
+        <ro.product.device>falcon_umts</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <description></description>
+    </device>
 </devices>
