@@ -25,4 +25,25 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board>P2-6011</ro.product.board>
         <description></description>
     </device>
+    <device>
+        <displayname>Huawei M835</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Huawei IDEOS S7</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <displayname>Huawei IDEOS</displayname>
+        <ro.product.model></ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
 </devices>
