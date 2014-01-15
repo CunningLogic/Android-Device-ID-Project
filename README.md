@@ -24,4 +24,4 @@ Please have the filename be capitalized, with a lower case file extension.
 
 
 Special Thanks to all contributors:
-Adam Lange, Anup Cowkur, Gunther ART
+Adam Lange, Anup Cowkur, Gunther ART, gu1dry, adumont
