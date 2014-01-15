@@ -25,4 +25,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board>spyder</ro.product.board>
         <description></description>
     </device>
+
+<device>
+        <commonname>Droid Ultra</commonname>
+        <ro.product.model>XT1080</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board>obake</ro.product.board>
+        <description></description>
+    </device>
+
+    <device>
+        <commonname>Droid MAXX</commonname>
+        <ro.product.model>XT1080M</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board>obake</ro.product.board>
+        <description></description>
+    </device>
 </devices>
