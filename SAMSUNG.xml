@@ -19,15 +19,50 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="SAMSUNG">
     <device>
-        <commonname>Galaxy Europa</commonname>
-        <ro.product.model>GT-I5500</ro.product.model>
+        <commonname>Galaxy</commonname>
+        <ro.product.model>GT-I7500</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy 5</commonname>
-        <ro.product.model>GT-I5500B</ro.product.model>
+        <commonname>Galaxy</commonname>
+        <ro.product.model>GT-I7500H</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy</commonname>
+        <ro.product.model>GT-I7500L</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy</commonname>
+        <ro.product.model>GT-I7500U</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Ace</commonname>
+        <ro.product.model>GT-I8160</ro.product.model>
+        <ro.product.device>GT-I8160</ro.product.device>
+        <ro.product.board>codinal</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Apollo</commonname>
+        <ro.product.model>GT-I5801</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Europa</commonname>
+        <ro.product.model>GT-I5500</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -40,27 +75,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy 5</commonname>
-        <ro.product.model>GT-I5500M</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy 5</commonname>
-        <ro.product.model>GT-I5503</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy 5</commonname>
-        <ro.product.model>GT-I5503T</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Galaxy Europa</commonname>
         <ro.product.model>GT-I5508</ro.product.model>
         <ro.product.device></ro.product.device>
@@ -68,31 +82,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I5510</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N900V</ro.product.model>
+        <ro.product.device>hltevzw</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I5510L</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SAMSUNG-SM-N900A</ro.product.model>
+        <ro.product.device>hlteatt</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I5510M</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I5510T</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Galaxy Note 10.1 (2014 Edition)</commonname>
+        <ro.product.model>SM-P605</ro.product.model>
+        <ro.product.device>lt03lte</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -112,6 +119,125 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Galaxy Spica</commonname>
         <ro.product.model>GT-I5700R</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
+        <ro.product.model>GT-I9300</ro.product.model>
+        <ro.product.device>m0</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
+        <ro.product.model>GT-I9300I</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
+        <ro.product.model>GT-I9300T</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
+        <ro.product.model>GT-I9300X</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III LTE</commonname>
+        <ro.product.model>GT-I9305</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III LTE</commonname>
+        <ro.product.model>GT-I9305N</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III LTE</commonname>
+        <ro.product.model>GT-I9305T</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
+        <ro.product.model>GT-I9308I</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
+        <ro.product.model>SAMSUNG-SGH-I747</ro.product.model>
+        <ro.product.device>d2att</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>GT-I9500</ro.product.model>
+        <ro.product.device>ja3g</ro.product.device>
+        <ro.product.board>universal5410</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>GT-I9502</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>GT-I9505</ro.product.model>
+        <ro.product.device>jflte</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SCH-I545</ro.product.model>
+        <ro.product.device>jfltevzw</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SGH-I337</ro.product.model>
+        <ro.product.device>jflteatt</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4 Active</commonname>
+        <ro.product.model>GT-I9295</ro.product.model>
+        <ro.product.device>jactivelte</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4 Google Play Edition</commonname>
+        <ro.product.model>GT-I9505G</ro.product.model>
+        <ro.product.device>jgedlte</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S4 LTE+</commonname>
+        <ro.product.model>GT-I9506</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -138,99 +264,64 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Apollo</commonname>
-        <ro.product.model>GT-I5801</ro.product.model>
+        <commonname>Galaxy 5</commonname>
+        <ro.product.model>GT-I5500B</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I6210</ro.product.model>
+        <commonname>Galaxy 5</commonname>
+        <ro.product.model>GT-I5500M</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I6220</ro.product.model>
+        <commonname>Galaxy 5</commonname>
+        <ro.product.model>GT-I5503</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I6230</ro.product.model>
+        <commonname>Galaxy 5</commonname>
+        <ro.product.model>GT-I5503T</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I6330C</ro.product.model>
+        <commonname>Galaxy 551</commonname>
+        <ro.product.model>GT-I5510</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I6410</ro.product.model>
+        <commonname>Galaxy 551</commonname>
+        <ro.product.model>GT-I5510L</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Galaxy 551</commonname>
+        <ro.product.model>GT-I5510M</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy 551</commonname>
+        <ro.product.model>GT-I5510T</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Saturn</commonname>
         <ro.product.model>GT-I6500U</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I6712</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I7110</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I7410</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I7500</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I7500H</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I7500L</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I7500U</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -289,13 +380,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I8150T</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy Ace</commonname>
-        <ro.product.model>GT-I8160</ro.product.model>
-        <ro.product.device>GT-I8160</ro.product.device>
-        <ro.product.board>codinal</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -980,104 +1064,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-I9268</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9295</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3</commonname>
-        <ro.product.model>GT-I9300</ro.product.model>
-        <ro.product.device>m0</ro.product.device>
-        <ro.product.board>smdk4x12</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3</commonname>
-        <ro.product.model>GT-I9300I</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3</commonname>
-        <ro.product.model>GT-I9300T</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3</commonname>
-        <ro.product.model>GT-I9300X</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3 LTE</commonname>
-        <ro.product.model>GT-I9305</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3 LTE</commonname>
-        <ro.product.model>GT-I9305N</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3 LTE</commonname>
-        <ro.product.model>GT-I9305T</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3</commonname>
-        <ro.product.model>GT-I9308I</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S4</commonname>
-        <ro.product.model>GT-I9500</ro.product.model>
-        <ro.product.device>ja3g</ro.product.device>
-        <ro.product.board>universal5410</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S4</commonname>
-        <ro.product.model>GT-I9502</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S4</commonname>
-        <ro.product.model>GT-I9505</ro.product.model>
-        <ro.product.device>jflte</ro.product.device>
-        <ro.product.board>MSM8960</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S4 GPE</commonname>
-        <ro.product.model>GT-I9505G</ro.product.model>
-        <ro.product.device>jgedlte</ro.product.device>
-        <ro.product.board>MSM8960</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S4 LTE+</commonname>
-        <ro.product.model>GT-I9506</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -3379,13 +3365,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy S4</commonname>
-        <ro.product.model>SCH-I545</ro.product.model>
-        <ro.product.device>jfltevzw</ro.product.device>
-        <ro.product.board>MSM8960</ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname></commonname>
         <ro.product.model>SCH-I545L</ro.product.model>
         <ro.product.device></ro.product.device>
@@ -3533,13 +3512,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy S4</commonname>
-        <ro.product.model>SGH-I337</ro.product.model>
-        <ro.product.device>jflteatt</ro.product.device>
-        <ro.product.board>MSM8960</ro.product.board>
-        <description>Actual model is SGH-I337</description>
-    </device>
-    <device>
         <commonname></commonname>
         <ro.product.model>SGH-I337Z</ro.product.model>
         <ro.product.device></ro.product.device>
@@ -3601,13 +3573,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy S3</commonname>
-        <ro.product.model>SAMSUNG-SGH-I747</ro.product.model>
-        <ro.product.device>d2att</ro.product.device>
-        <ro.product.board>MSM8960</ro.product.board>
-        <description>Actual model is SGH-I747</description>
     </device>
     <device>
         <commonname></commonname>
@@ -3786,13 +3751,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>SAMSUNG-SM-N900A</ro.product.model>
-        <ro.product.device>hlteatt</ro.product.device>
-        <ro.product.board>MSM8974</ro.product.board>
-        <description>Actual model is SM-N900A</description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>SM-N900K</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -3834,13 +3792,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Note 3</commonname>
-        <ro.product.model>SM-N900V</ro.product.model>
-        <ro.product.device>hltevzw</ro.product.device>
-        <ro.product.board>MSM8974</ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname></commonname>
         <ro.product.model>SM-N900W8</ro.product.model>
         <ro.product.device></ro.product.device>
@@ -3873,13 +3824,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-P602</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Galaxy Note 10.1 2014 edition</commonname>
-        <ro.product.model>SM-P605</ro.product.model>
-        <ro.product.device>lt03lte</ro.product.device>
-        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
