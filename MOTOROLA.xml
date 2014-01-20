@@ -19,10 +19,45 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="Motorola">
     <device>
-        <commonname>Droid Ultra</commonname>
-        <ro.product.model>XT1080</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board>obake</ro.product.board>
+        <commonname>Atrix HD</commonname>
+        <ro.product.model>MB886</ro.product.model>
+        <ro.product.device>qinara</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Atrix 4G</commonname>
+        <ro.product.model>MB860</ro.product.model>
+        <ro.product.device>olympus</ro.product.device>
+        <ro.product.board>olympus</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Defy</commonname>
+        <ro.product.model>MB525</ro.product.model>
+        <ro.product.device>umts_jordan</ro.product.device>
+        <ro.product.board>jordan</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Defy+</commonname>
+        <ro.product.model>MB526</ro.product.model>
+        <ro.product.device>umts_jordan</ro.product.device>
+        <ro.product.board>jordan</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid Bionic</commonname>
+        <ro.product.model>DROID BIONIC</ro.product.model>
+        <ro.product.device>cdma_targa</ro.product.device>
+        <ro.product.board>targa</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid Razr</commonname>
+        <ro.product.model>XT912</ro.product.model>
+        <ro.product.device>cdma_spyder</ro.product.device>
+        <ro.product.board>spyder</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -33,10 +68,143 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Droid X</commonname>
+        <ro.product.model>DROIDX</ro.product.model>
+        <ro.product.device>cdma_shadow</ro.product.device>
+        <ro.product.board>shadow</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid X2</commonname>
+        <ro.product.model>DROID X2</ro.product.model>
+        <ro.product.device>daytona</ro.product.device>
+        <ro.product.board>daytona</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid Ultra</commonname>
+        <ro.product.model>XT1080</ro.product.model>
+        <ro.product.device>obake</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid 2</commonname>
+        <ro.product.model>DROID2</ro.product.model>
+        <ro.product.device>cdma_droid2</ro.product.device>
+        <ro.product.board>droid2</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid 2 Global</commonname>
+        <ro.product.model>DROID2 GLOBAL</ro.product.model>
+        <ro.product.device>cdma_droid2</ro.product.device>
+        <ro.product.board>droid2we</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid 3</commonname>
+        <ro.product.model>DROID3</ro.product.model>
+        <ro.product.device>cdma_solana</ro.product.device>
+        <ro.product.board>solana</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Milestone X</commonname>
+        <ro.product.model>Milestone X</ro.product.model>
+        <ro.product.device>cdma_shadow</ro.product.device>
+        <ro.product.board>shadow</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Milestone 3</commonname>
+        <ro.product.model>XT883</ro.product.model>
+        <ro.product.device>cdma_solana</ro.product.device>
+        <ro.product.board>solana</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>MOTOACTV</commonname>
+        <ro.product.model>Motorola-F100</ro.product.model>
+        <ro.product.device>G2</ro.product.device>
+        <ro.product.board>G2</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Moto X</commonname>
+        <ro.product.model>XT1055</ro.product.model>
+        <ro.product.device>ghost</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>US Cellular Moto X</description>
+    </device>
+    <device>
+        <commonname>Moto X</commonname>
+        <ro.product.model>XT1056</ro.product.model>
+        <ro.product.device>ghost</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Sprint Moto X</description>
+    </device>
+    <device>
+        <commonname>Moto X</commonname>
+        <ro.product.model>XT1058</ro.product.model>
+        <ro.product.device>ghost</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>AT&T Moto X</description>
+    </device>
+    <device>
+        <commonname>Moto X</commonname>
+        <ro.product.model>XT1060</ro.product.model>
+        <ro.product.device>ghost</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Verizon Moto X</description>
+    </device>
+    <device>
+        <commonname>Photon 4G</commonname>
+        <ro.product.model>MB855</ro.product.model>
+        <ro.product.device>sunfire</ro.product.device>
+        <ro.product.board>sunfire</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Razr</commonname>
+        <ro.product.model>IS12M</ro.product.model>
+        <ro.product.device>cdma_spyder</ro.product.device>
+        <ro.product.board>spyder</ro.product.board>
+        <description>KDDI Razr</description>
+    </device>
+    <device>
         <commonname>Razr</commonname>
         <ro.product.model>XT910</ro.product.model>
         <ro.product.device>umts_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Razr</commonname>
+        <ro.product.model>XT910K</ro.product.model>
+        <ro.product.device>umts_spyder</ro.product.device>
+        <ro.product.board>spyder</ro.product.board>
+        <description>KT Razr</description>
+    </device>
+    <device>
+        <commonname>Xoom</commonname>
+        <ro.product.model>Xoom</ro.product.model>
+        <ro.product.device>stingray</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>XT800 Zhishang</commonname>
+        <ro.product.model>XT800</ro.product.model>
+        <ro.product.device>titanium</ro.product.device>
+        <ro.product.board>titanium</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>XT886</commonname>
+        <ro.product.model>XT886</ro.product.model>
+        <ro.product.device>umts_yangtze</ro.product.device>
+        <ro.product.board>yangtze</ro.product.board>
         <description></description>
     </device>
 </devices>

@@ -146,9 +146,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Nexus 7 (2012)</commonname>
-        <ro.product.model></ro.product.model>
+        <ro.product.model>Nexus 7</ro.product.model>
         <ro.product.device>grouper</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>grouper</ro.product.board>
         <description></description>
     </device>
     <device>

@@ -62,9 +62,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Droid Incredible</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>ADR6300</ro.product.model>
+        <ro.product.device>inc</ro.product.device>
+        <ro.product.board>inc</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -290,6 +290,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>endeavoru</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
+    </device>
+    <device>
+        <commonname>One X</commonname>
+        <ro.product.model>htc_evita</ro.product.model>
+        <ro.product.device>evita</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>AT&T One X</description>
     </device>
     <device>
         <commonname>One XL</commonname>
