@@ -289,21 +289,21 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5302</ro.product.model>
         <ro.product.device>C5302</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5303</ro.product.model>
         <ro.product.device>C5303</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5306</ro.product.model>
         <ro.product.device>C5306</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
