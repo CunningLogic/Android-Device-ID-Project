@@ -19,280 +19,322 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="LGE">
     <device>
-        <commonname>LG Optimus</commonname>
+        <commonname>G Flex</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Q</commonname>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-D801</ro.product.model>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>T-Mobile G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-F320K</ro.product.model>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>KT G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-LS980</ro.product.model>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Sprint G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>L-01F</ro.product.model>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>docomo G2</description>
+    </device>
+    <device>
+        <commonname>G2x</commonname>
+        <ro.product.model>LG-P999</ro.product.model>
+        <ro.product.device>p999</ro.product.device>
+        <ro.product.board>p999</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Pad</commonname>
+        <commonname>Optimus Black</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Pad LTE</commonname>
+        <commonname>Optimus Chat</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus 2X</commonname>
+        <commonname>Optimus Chic</commonname>
+        <ro.product.model>LG-E720</ro.product.model>
+        <ro.product.device>alessi</ro.product.device>
+        <ro.product.board>alessi</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus F3</commonname>
+        <ro.product.model>LGMS659</ro.product.model>
+        <ro.product.device>fx3</ro.product.device>
+        <ro.product.board>fx3mt</ro.product.board>
+        <description>MetroPCS Optimus F3</description>
+    </device>
+    <device>
+        <commonname>Optimus F5</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus 4X HD</commonname>
+        <commonname>Optimus F6</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus 3D</commonname>
+        <commonname>Optimus F7</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus 3D Max</commonname>
+        <commonname>Optimus G</commonname>
+        <ro.product.model>LG-E970</ro.product.model>
+        <ro.product.device>geeb</ro.product.device>
+        <ro.product.board>gee</ro.product.board>
+        <description>AT&T Optimus G</description>
+    </device>
+    <device>
+        <commonname>Optimus G</commonname>
+        <ro.product.model>LG-LS970</ro.product.model>
+        <ro.product.device>geehrc4g</ro.product.device>
+        <ro.product.board>gee</ro.product.board>
+        <description>Sprint Optimus G</description>
+    </device>
+    <device>
+        <commonname>Optimus G Pro</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus M</commonname>
+        <commonname>Optimus LTE</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Me</commonname>
+        <commonname>Optimus L1 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Zip</commonname>
+        <commonname>Optimus L2</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Slider</commonname>
+        <commonname>Optimus L2 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus LTE</commonname>
+        <commonname>Optimus L3</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus One</commonname>
+        <commonname>Optimus L4 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Black</commonname>
+        <commonname>Optimus L5</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Chat</commonname>
+        <commonname>Optimus L5 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Chic</commonname>
+        <commonname>Optimus L7</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Net</commonname>
+        <commonname>Optimus L7 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus Sol</commonname>
+        <commonname>Optimus L9</commonname>
+        <ro.product.model>LG-P760</ro.product.model>
+        <ro.product.device>u2</ro.product.device>
+        <ro.product.board>u2</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus L9 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L2</commonname>
+        <commonname>Optimus M</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L3</commonname>
+        <commonname>Optimus Me</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L5</commonname>
+        <commonname>Optimus Net</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L7</commonname>
+        <commonname>Optimus One</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L9</commonname>
+        <commonname>Optimus Q</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L1 II</commonname>
+        <commonname>Optimus Pad</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L2 II</commonname>
+        <commonname>Optimus Pad LTE</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L4 II</commonname>
+        <commonname>Optimus Showtime</commonname>
+        <ro.product.model>LGL86C</ro.product.model>
+        <ro.product.device>u0_cdma</ro.product.device>
+        <ro.product.board>MSM7630_SURF</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus Slider</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L5 II</commonname>
+        <commonname>Optimus Sol</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L7 II</commonname>
+        <commonname>Optimus Vu</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus L9 II</commonname>
+        <commonname>Optimus Vu II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus F3</commonname>
+        <commonname>Optimus Zip</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus F5</commonname>
+        <commonname>Optimus 2X</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus F6</commonname>
+        <commonname>Optimus 3D</commonname>
+        <ro.product.model>LG-P925g</ro.product.model>
+        <ro.product.device>cosmo_302-720</ro.product.device>
+        <ro.product.board>cosmopolitan</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus 3D Max</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname>LG Optimus F7</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>LG Optimus G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>LG Optimus G Pro</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>LG Optimus G2</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>LG Optimus G Flex</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>LG Optimus Vu</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>LG Optimus Vu II</commonname>
+        <commonname>Optimus 4X HD</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>

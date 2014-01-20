@@ -23,42 +23,21 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Galaxy Nexus</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is GT-i9250</description>
-    </device>
-    <device>
-        <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>GT-i9250T</ro.product.model>
-        <ro.product.device>maguro</ro.product.device>
-        <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is GT-i9250T</description>
-    </device>
-    <device>
-        <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
-        <ro.product.device>maguro</ro.product.device>
-        <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is SHW-M420K</description>
-    </device>
-    <device>
-        <commonname>Galaxy Nexus</commonname>
-        <ro.product.model>Galaxy Nexus</ro.product.model>
-        <ro.product.device>maguro</ro.product.device>
-        <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is SHW-M420S</description>
+        <description>Covers models GT-I9250, GT-I9250T, SHW-M420K & SHW-M420S.</description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
         <ro.product.model>Galaxy Nexus</ro.product.model>
         <ro.product.device>toro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual models are SCH-i515, SCH-i516</description>
+        <description>Covers models SCH-I515 & SCH-I516.</description>
     </device>
     <device>
         <commonname>Galaxy Nexus</commonname>
         <ro.product.model>Galaxy Nexus</ro.product.model>
         <ro.product.device>toroplus</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
-        <description>Actual model is SPH-L700</description>
+        <description>Covers model SPH-L700.</description>
     </device>
     <device>
         <commonname>Google Glass XE12</commonname>
@@ -83,38 +62,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Nexus S</commonname>
-        <ro.product.model>GT-I9020</ro.product.model>
+        <ro.product.model>Nexus S</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Nexus S</commonname>
-        <ro.product.model>GT-I9020A</ro.product.model>
-        <ro.product.device>crespo</ro.product.device>
-        <ro.product.board>herring</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Nexus S</commonname>
-        <ro.product.model>GT-I9020T</ro.product.model>
-        <ro.product.device>crespo</ro.product.device>
-        <ro.product.board>herring</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Nexus S</commonname>
-        <ro.product.model>GT-I9023</ro.product.model>
-        <ro.product.device>crespo</ro.product.device>
-        <ro.product.board>herring</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Nexus S</commonname>
-        <ro.product.model>SHW-M200</ro.product.model>
-        <ro.product.device>crespo</ro.product.device>
-        <ro.product.board>herring</ro.product.board>
-        <description></description>
+        <description>Covers models GT-I9020, GT-I9020A, GT-I9020T, GT-I9023 & SHW-M200.</description>
     </device>
     <device>
         <commonname>Nexus S 4G</commonname>
@@ -167,16 +118,16 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Nexus 7 (2013)</commonname>
-        <ro.product.model></ro.product.model>
+        <ro.product.model>Nexus 7</ro.product.model>
         <ro.product.device>deb</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>deb</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Nexus 10</commonname>
-        <ro.product.model>GT-P8110</ro.product.model>
+        <ro.product.model>Nexus 10</ro.product.model>
         <ro.product.device>manta</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>manta</ro.product.board>
         <description></description>
     </device>
 </devices>
