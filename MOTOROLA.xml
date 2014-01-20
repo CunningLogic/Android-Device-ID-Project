@@ -19,17 +19,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="Motorola">
     <device>
-        <commonname>Razr</commonname>
-        <ro.product.model>XT910</ro.product.model>
-        <ro.product.device>umts_spyder</ro.product.device>
-        <ro.product.board>spyder</ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Droid Ultra</commonname>
         <ro.product.model>XT1080</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board>obake</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid Razr M</commonname>
+        <ro.product.model>XT907</ro.product.model>
+        <ro.product.device>scorpion_mini</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Razr</commonname>
+        <ro.product.model>XT910</ro.product.model>
+        <ro.product.device>umts_spyder</ro.product.device>
+        <ro.product.board>spyder</ro.product.board>
         <description></description>
     </device>
 </devices>

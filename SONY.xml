@@ -22,36 +22,43 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Xperia A</commonname>
         <ro.product.model>SO-04E</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SO-04E</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Xperia acro HD</commonname>
+        <ro.product.model>IS12S</ro.product.model>
+        <ro.product.device>IS12S</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia acro HD</commonname>
         <ro.product.model>SO-03D</ro.product.model>
         <ro.product.device>SO-03D</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia acro HD</commonname>
         <ro.product.model>SOI12</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SOI12</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia acro S</commonname>
         <ro.product.model>LT26w</ro.product.model>
         <ro.product.device>LT26w</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8660</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia AX</commonname>
         <ro.product.model>SO-01E</ro.product.model>
         <ro.product.device>SO-01E</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -99,386 +106,393 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Xperia E1</commonname>
         <ro.product.model>D2004</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D2004</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E1</commonname>
         <ro.product.model>D2005</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D2005</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E1 dual</commonname>
         <ro.product.model>D2104</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D2104</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E1 dual</commonname>
         <ro.product.model>D2105</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D2105</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E1 dual</commonname>
         <ro.product.model>D2114</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D2114</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia go</commonname>
         <ro.product.model>ST27a</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST27a</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia go</commonname>
         <ro.product.model>ST27i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST27i</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia GX</commonname>
         <ro.product.model>SO-04D</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SO-04D</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ion</commonname>
         <ro.product.model>LT28at</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT28at</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ion</commonname>
         <ro.product.model>LT28h</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT28h</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ion</commonname>
         <ro.product.model>LT28i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT28i</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia J</commonname>
         <ro.product.model>ST26a</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST26a</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia J</commonname>
         <ro.product.model>ST26i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST26i</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia L</commonname>
         <ro.product.model>C2104</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C2104</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia L</commonname>
         <ro.product.model>C2105</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C2105</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia M</commonname>
         <ro.product.model>C1904</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C1904</ro.product.device>
+        <ro.product.board>MSM8227</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia M</commonname>
         <ro.product.model>C1905</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C1905</ro.product.device>
+        <ro.product.board>MSM8227</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia M dual</commonname>
         <ro.product.model>C2004</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C2004</ro.product.device>
+        <ro.product.board>MSM8227</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia M dual</commonname>
         <ro.product.model>C2005</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C2005</ro.product.device>
+        <ro.product.board>MSM8227</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia miro</commonname>
         <ro.product.model>ST23a</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST23a</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia miro</commonname>
         <ro.product.model>ST23i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST23i</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia P</commonname>
         <ro.product.model>LT22i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT22i</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Xperia NX</commonname>
+        <ro.product.model>SO-02D</ro.product.model>
+        <ro.product.device>SO-02D</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia S</commonname>
         <ro.product.model>LT26i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT26i</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SL</commonname>
         <ro.product.model>LT26ii</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>LT26ii</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia sola</commonname>
         <ro.product.model>MT27i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>MT27i</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5302</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C5302</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5303</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C5303</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5306</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C5306</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>M35c</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>M35c</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>M35h</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>M35h</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>M35t</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>M35t</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SX</commonname>
         <ro.product.model>SO-05D</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SO-05D</ro.product.device>
+        <ro.product.board>KOMACHI_DOCOMO</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T</commonname>
         <ro.product.model>LT30a</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT30a</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T</commonname>
         <ro.product.model>LT30p</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT30p</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Tablet S</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>SGPT12</ro.product.model>
+        <ro.product.device>txs03</ro.product.device>
+        <ro.product.board>txs03</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Tablet Z</commonname>
         <ro.product.model>SGP311</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SGP311</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Tablet Z</commonname>
         <ro.product.model>SGP312</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SGP312</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Tablet Z</commonname>
         <ro.product.model>SGP321</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SGP321</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia tipo</commonname>
         <ro.product.model>ST21a</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST21a</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia tipo</commonname>
         <ro.product.model>ST21i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST21i</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia tipo dual</commonname>
         <ro.product.model>ST21a2</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST21a2</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia tipo dual</commonname>
         <ro.product.model>ST21i2</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST21i2</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia TL</commonname>
         <ro.product.model>LT30at</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT30at</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia TX</commonname>
         <ro.product.model>LT29i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>LT29i</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T2 Ultra</commonname>
         <ro.product.model>D5303</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D5303</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T2 Ultra</commonname>
         <ro.product.model>D5306</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D5306</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T2 Ultra</commonname>
         <ro.product.model>XM50h</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>XM50h</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T2 Ultra</commonname>
         <ro.product.model>XM50t</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>XM50t</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia T2 Ultra dual</commonname>
         <ro.product.model>D5322</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D5322</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia U</commonname>
         <ro.product.model>ST25a</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST25a</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia U</commonname>
         <ro.product.model>ST25i</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>ST25i</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia UL</commonname>
         <ro.product.model>SOL22</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SOL22</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia V</commonname>
         <ro.product.model>LT25i</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>LT25i</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia VC</commonname>
         <ro.product.model>LT25c</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>LT25c</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia VL</commonname>
         <ro.product.model>SOL21</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>SOL21</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -491,147 +505,161 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Xperia Z</commonname>
         <ro.product.model>C6603</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6603</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Xperia Z</commonname>
+        <ro.product.model>SO-02E</ro.product.model>
+        <ro.product.device>SO-02E</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
         <ro.product.model>C6802</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6802</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
-        <ro.product.model>C6806</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>C6806_GPe</ro.product.model>
+        <ro.product.device>C6806</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
         <ro.product.model>C6833</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6833</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
         <ro.product.model>C6843</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6843</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
         <ro.product.model>XL39h</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>XL39h</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ZL</commonname>
         <ro.product.model>C6502</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C6502</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ZL</commonname>
         <ro.product.model>C6503</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C6503</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ZL</commonname>
         <ro.product.model>C6506</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Xperia ZR</commonname>
-        <ro.product.model>C5503</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C6506</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia ZR</commonname>
         <ro.product.model>C5502</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C5502</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Xperia ZR</commonname>
+        <ro.product.model>C5503</ro.product.model>
+        <ro.product.device>C5503</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1</commonname>
         <ro.product.model>C6902</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6902</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1</commonname>
         <ro.product.model>C6903</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6903</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1</commonname>
         <ro.product.model>C6906</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6906</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1</commonname>
         <ro.product.model>C6943</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>C6943</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1</commonname>
         <ro.product.model>L39h</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>L39h</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1</commonname>
         <ro.product.model>L39t</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.device>L39t</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Xperia Z1</commonname>
+        <ro.product.model>SO-01F</ro.product.model>
+        <ro.product.device>SO-01F</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1 Compact</commonname>
         <ro.product.model>D5503</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>D5503</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1 Compact</commonname>
         <ro.product.model>M51w</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>M51w</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1 f</commonname>
         <ro.product.model>SO-02F</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>SO-02F</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia Z1s</commonname>
         <ro.product.model>C6916</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>C6916</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
