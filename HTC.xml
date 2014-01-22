@@ -196,15 +196,8 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Hero</commonname>
         <ro.product.model></ro.product.model>
-        <ro.product.device>hero</ro.product.device>
+        <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-        <device>
-        <commonname>Hero CDMA (US)</commonname>
-        <ro.product.model>Hero CDMA (US)</ro.product.model>
-        <ro.product.device>heroc</ro.product.device>
-        <ro.product.board>heroc</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -281,7 +274,14 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>One</commonname>
         <ro.product.model>HTC One</ro.product.model>
         <ro.product.device>m7</ro.product.device>
-        <ro.product.board>m7</ro.product.board>
+        <ro.product.board>APQ8064</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>One</commonname>
+        <ro.product.model>M7WLS</ro.product.model>
+        <ro.product.device>m7wls</ro.product.device>
+        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
@@ -302,19 +302,19 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>One X</commonname>
         <ro.product.model>EndeavorU</ro.product.model>
         <ro.product.device>endeavoru</ro.product.device>
-        <ro.product.board>endeavoru</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>One X+</commonname>
-        <ro.product.model>HTC One X+</ro.product.model>
-        <ro.product.device>enrc2</ro.product.device>
-        <ro.product.board>enrc2</ro.product.board>
+        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>One X</commonname>
-        <ro.product.model>HTC One X+</ro.product.model>
+        <ro.product.model>HTC One X</ro.product.model>
+        <ro.product.device>evita</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>AT&T One X (Alt)</description>
+    </device>
+    <device>
+        <commonname>One X</commonname>
+        <ro.product.model>htc_evita</ro.product.model>
         <ro.product.device>evita</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <description>AT&T One X</description>
