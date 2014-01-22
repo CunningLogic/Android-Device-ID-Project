@@ -19,6 +19,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="ASUS">
     <device>
+        <commonname>Fonepad</commonname>
+        <ro.product.model>ME371MG</ro.product.model>
+        <ro.product.device>mfld_gi</ro.product.device>
+        <ro.product.board>EeePad</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Padfone</commonname>
+        <ro.product.model>PadFone</ro.product.model>
+        <ro.product.device>PadFone</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Transformer Prime</commonname>
         <ro.product.model>EPAD</ro.product.model>
         <ro.product.device>EeePad</ro.product.device>
