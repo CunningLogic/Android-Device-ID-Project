@@ -307,6 +307,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>One X</commonname>
+        <ro.product.model>HTC One X</ro.product.model>
+        <ro.product.device>evita</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>AT&T One X (Alt)</description>
+    </device>
+    <device>
+        <commonname>One X</commonname>
         <ro.product.model>htc_evita</ro.product.model>
         <ro.product.device>evita</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
