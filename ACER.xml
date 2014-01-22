@@ -40,6 +40,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Iconia Tab A501</commonname>
+        <ro.product.model>A501</ro.product.model>
+        <ro.product.device>picasso</ro.product.device>
+        <ro.product.board>picasso</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Iconia Tab A700</commonname>
+        <ro.product.model>A700</ro.product.model>
+        <ro.product.device>picasso_mf</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Liquid Metal</commonname>
         <ro.product.model>Liquid MT</ro.product.model>
         <ro.product.device>a4</ro.product.device>
