@@ -254,7 +254,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Xoom</ro.product.model>
         <ro.product.device>stingray</ro.product.device>
         <ro.product.board></ro.product.board>
-        <description>Xoom Verizon</description>
+        <description>Verizon Xoom</description>
     </device>
     <device>
         <commonname>XT800 Zhishang</commonname>

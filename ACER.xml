@@ -50,7 +50,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Iconia Tab A700</commonname>
         <ro.product.model>A700</ro.product.model>
         <ro.product.device>picasso_mf</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>picasso_mf</ro.product.board>
         <description></description>
     </device>
     <device>

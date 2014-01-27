@@ -69,6 +69,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Desire X</commonname>
+        <ro.product.model>HTC Desire X</ro.product.model>
+        <ro.product.device>protou</ro.product.device>
+        <ro.product.board>protou</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Desire X</commonname>
         <ro.product.model>X515e</ro.product.model>
         <ro.product.device>protou</ro.product.device>
         <ro.product.board>protou</ro.product.board>
@@ -98,6 +105,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Droid DNA</commonname>
         <ro.product.model>DLX</ro.product.model>
+        <ro.product.device>dlx</ro.product.device>
+        <ro.product.board>dlx</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid DNA</commonname>
+        <ro.product.model>HTC6435LVW</ro.product.model>
         <ro.product.device>dlx</ro.product.device>
         <ro.product.board>dlx</ro.product.board>
         <description></description>
@@ -142,6 +156,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PG06100</ro.product.model>
         <ro.product.device>speedy</ro.product.device>
         <ro.product.board>speedy</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Evo V 4G</commonname>
+        <ro.product.model>HTCEVOV4G</ro.product.model>
+        <ro.product.device>shooter</ro.product.device>
+        <ro.product.board>shooter</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -300,6 +321,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>One</commonname>
+        <ro.product.model>HTCONE</ro.product.model>
+        <ro.product.device>m7wls</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>One</commonname>
         <ro.product.model>M7WLS</ro.product.model>
         <ro.product.device>m7wls</ro.product.device>
         <ro.product.board></ro.product.board>
@@ -321,10 +349,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>One SV</commonname>
+        <ro.product.model>C525c</ro.product.model>
+        <ro.product.device>k2cl</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>Boost Mobile One SV (C525c)</description>
+    </device>
+    <device>
+        <commonname>One SV</commonname>
         <ro.product.model>K2CL</ro.product.model>
         <ro.product.device>k2cl</ro.product.device>
         <ro.product.board></ro.product.board>
         <description>Boost Mobile One SV (C525c)</description>
+    </device>
+    <device>
+        <commonname>One V</commonname>
+        <ro.product.model>HTC One V</ro.product.model>
+        <ro.product.device>primoc</ro.product.device>
+        <ro.product.board>primoc</ro.product.board>
+        <description>Virgin Mobile One V</description>
     </device>
     <device>
         <commonname>One V</commonname>
@@ -336,6 +378,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>One X</commonname>
         <ro.product.model>EndeavorU</ro.product.model>
+        <ro.product.device>endeavoru</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>One X</commonname>
+        <ro.product.model>HTC One X</ro.product.model>
         <ro.product.device>endeavoru</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -405,9 +454,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>ThunderBolt</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>ADR6400L</ro.product.model>
+        <ro.product.device>mecha</ro.product.device>
+        <ro.product.board>mecha</ro.product.board>
         <description></description>
     </device>
     <device>
