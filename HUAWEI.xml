@@ -26,6 +26,41 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Ascend II</commonname>
+        <ro.product.model>M865</ro.product.model>
+        <ro.product.device>hwm865</ro.product.device>
+        <ro.product.board>M865</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Ascend P1</commonname>
+        <ro.product.model>U9200</ro.product.model>
+        <ro.product.device>viva</ro.product.device>
+        <ro.product.board>U9200</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Fusion 2</commonname>
+        <ro.product.model>Huawei-U8665</ro.product.model>
+        <ro.product.device>hwu8665</ro.product.device>
+        <ro.product.board>U8665</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Honor</commonname>
+        <ro.product.model>U8860</ro.product.model>
+        <ro.product.device>hwu8860</ro.product.device>
+        <ro.product.board>U8860</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Sonic</commonname>
+        <ro.product.model>C8650</ro.product.model>
+        <ro.product.device>hwc8650</ro.product.device>
+        <ro.product.board>C8650</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Vodafone Smart</commonname>
         <ro.product.model>Vodafone 858</ro.product.model>
         <ro.product.device>hwu8160</ro.product.device>

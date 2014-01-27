@@ -19,6 +19,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="LGE">
     <device>
+        <commonname>Esteem</commonname>
+        <ro.product.model>LG-MS910</ro.product.model>
+        <ro.product.device>MS910</ro.product.device>
+        <ro.product.board>lge_bryce</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>G Flex</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
@@ -31,6 +38,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <description>T-Mobile G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-D803</ro.product.model>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Canadian G2</description>
     </device>
     <device>
         <commonname>G2</commonname>
@@ -61,6 +75,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Motion 4G</commonname>
+        <ro.product.model>LG-MS770</ro.product.model>
+        <ro.product.device>l0</ro.product.device>
+        <ro.product.board>L0</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>myTouch Q</commonname>
+        <ro.product.model>LG-C800</ro.product.model>
+        <ro.product.device>lgc800</ro.product.device>
+        <ro.product.board>lgc800</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Optimus</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
@@ -69,9 +97,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus Black</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LG-P970</ro.product.model>
+        <ro.product.device>blackg</ro.product.device>
+        <ro.product.board>blackg</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -86,6 +114,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E720</ro.product.model>
         <ro.product.device>alessi</ro.product.device>
         <ro.product.board>alessi</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus Exceed</commonname>
+        <ro.product.model>VS840PP</ro.product.model>
+        <ro.product.device>cayman</ro.product.device>
+        <ro.product.board>cayman</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -125,6 +160,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus G</commonname>
+        <ro.product.model>LG-F180K</ro.product.model>
+        <ro.product.device>geehrc</ro.product.device>
+        <ro.product.board>gee</ro.product.board>
+        <description>kt Optimus G</description>
+    </device>
+    <device>
+        <commonname>Optimus G</commonname>
         <ro.product.model>LG-LS970</ro.product.model>
         <ro.product.device>geehrc4g</ro.product.device>
         <ro.product.board>gee</ro.product.board>
@@ -135,6 +177,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus Logic</commonname>
+        <ro.product.model>LGL35G</ro.product.model>
+        <ro.product.device>e0</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -195,10 +244,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus L7</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.model>LG-P708g</ro.product.model>
+        <ro.product.device>u0</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
+        <description>Mexican Optimus L7</description>
     </device>
     <device>
         <commonname>Optimus L7 II</commonname>
@@ -215,6 +264,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Optimus L9</commonname>
+        <ro.product.model>LG-P769</ro.product.model>
+        <ro.product.device>u2</ro.product.device>
+        <ro.product.board>u2</ro.product.board>
+        <description>T-Mobile Optimus L9</description>
+    </device>
+    <device>
         <commonname>Optimus L9 II</commonname>
         <ro.product.model></ro.product.model>
         <ro.product.device></ro.product.device>
@@ -222,10 +278,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Optimus M</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Optimus M+</commonname>
+        <ro.product.model>LG-MS695</ro.product.model>
+        <ro.product.device>m3_mpcs_us</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -237,9 +293,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus Net</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LGL45C</ro.product.model>
+        <ro.product.device>lgl45c</ro.product.device>
+        <ro.product.board>lge_gelato</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -251,9 +307,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus Q</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LGL55C</ro.product.model>
+        <ro.product.device>lgl55c</ro.product.device>
+        <ro.product.board>lge_gelato</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -286,9 +342,16 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus Sol</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LG-E730</ro.product.model>
+        <ro.product.device>victor</ro.product.device>
+        <ro.product.board>victor</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus V</commonname>
+        <ro.product.model>VM670</ro.product.model>
+        <ro.product.device>thunderc</ro.product.device>
+        <ro.product.board>thunderc</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -314,9 +377,16 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus 2X</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.model>LG-P990</ro.product.model>
+        <ro.product.device>star</ro.product.device>
         <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus 3D</commonname>
+        <ro.product.model>LG-P920</ro.product.model>
+        <ro.product.device>cosmopolitan</ro.product.device>
+        <ro.product.board>cosmo</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -324,20 +394,34 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P925g</ro.product.model>
         <ro.product.device>cosmo_302-720</ro.product.device>
         <ro.product.board>cosmopolitan</ro.product.board>
-        <description></description>
+        <description>Rogers Optimus 3D</description>
+    </device>
+    <device>
+        <commonname>Optimus 3D</commonname>
+        <ro.product.model>LG-SU760</ro.product.model>
+        <ro.product.device>cosmopolitan</ro.product.device>
+        <ro.product.board>cosmo</ro.product.board>
+        <description>SK Telecom Optimus 3D</description>
     </device>
     <device>
         <commonname>Optimus 3D Max</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LG-P720</ro.product.model>
+        <ro.product.device>cx2</ro.product.device>
+        <ro.product.board>cx2</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Optimus 4X HD</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.model>LG-P880</ro.product.model>
+        <ro.product.device>x3</ro.product.device>
         <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Prada 3.0</commonname>
+        <ro.product.model>LG-KU5400</ro.product.model>
+        <ro.product.device>p2</ro.product.device>
+        <ro.product.board>p2</ro.product.board>
         <description></description>
     </device>
 </devices>
