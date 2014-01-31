@@ -159,6 +159,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Milestone 2</commonname>
+        <ro.product.model>A953</ro.product.model>
+        <ro.product.device>umts_milestone2</ro.product.device>
+        <ro.product.board>A953</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Milestone 3</commonname>
         <ro.product.model>XT883</ro.product.model>
         <ro.product.device>cdma_solana</ro.product.device>

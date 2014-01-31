@@ -33,10 +33,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Ascend G300</commonname>
+        <ro.product.model>U8815</ro.product.model>
+        <ro.product.device>hwu8815</ro.product.device>
+        <ro.product.board>U8815</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Ascend P1</commonname>
         <ro.product.model>U9200</ro.product.model>
         <ro.product.device>viva</ro.product.device>
         <ro.product.board>U9200</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>C8500</commonname>
+        <ro.product.model>C8500</ro.product.model>
+        <ro.product.device>msm7625</ro.product.device>
+        <ro.product.board>C8500</ro.product.board>
         <description></description>
     </device>
     <device>

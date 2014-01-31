@@ -19,6 +19,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="SONYERICSSON">
     <device>
+        <commonname>Live with Walkman</commonname>
+        <ro.product.model>WT19i</ro.product.model>
+        <ro.product.device>WT19i</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Xperia acro</commonname>
         <ro.product.model>IS11S</ro.product.model>
         <ro.product.device>IS11S</ro.product.device>

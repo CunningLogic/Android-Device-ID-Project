@@ -19,10 +19,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="ZTE">
     <device>
+        <commonname>Blade</commonname>
+        <ro.product.model>ZTE-BLADE</ro.product.model>
+        <ro.product.device>blade</ro.product.device>
+        <ro.product.board>blade</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Boost Warp 4G</commonname>
         <ro.product.model>N9510</ro.product.model>
         <ro.product.device>warplte</ro.product.device>
         <ro.product.board>warplte</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Kis III</commonname>
+        <ro.product.model>V790</ro.product.model>
+        <ro.product.device>roamer2</ro.product.device>
+        <ro.product.board>roamer2</ro.product.board>
         <description></description>
     </device>
     <device>
