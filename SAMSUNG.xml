@@ -362,6 +362,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Galaxy Rush</commonname>
+        <ro.product.model>SPH-M830</ro.product.model>
+        <ro.product.device>prevail2spr</ro.product.device>
+        <ro.product.board>MSM7630_SURF</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Galaxy S</commonname>
         <ro.product.model>GT-I9000</ro.product.model>
         <ro.product.device>GT-I9000</ro.product.device>
@@ -4109,13 +4116,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SPH-L720</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SPH-M830</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
