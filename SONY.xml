@@ -72,35 +72,35 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Xperia C</commonname>
         <ro.product.model>S39h</ro.product.model>
         <ro.product.device>S39h</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>arima89_we_s_jb2</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E</commonname>
         <ro.product.model>C1504</ro.product.model>
         <ro.product.device>C1504</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E</commonname>
         <ro.product.model>C1505</ro.product.model>
         <ro.product.device>C1505</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E dual</commonname>
         <ro.product.model>C1604</ro.product.model>
         <ro.product.device>C1604</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia E dual</commonname>
         <ro.product.model>C1605</ro.product.model>
         <ro.product.device>C1605</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>

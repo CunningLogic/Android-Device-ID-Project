@@ -208,6 +208,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>KT Galaxy M Style</description>
     </device>
     <device>
+        <commonname>Galaxy Mega 5.8</commonname>
+        <ro.product.model>GT-I9152</ro.product.model>
+        <ro.product.device>crater</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Galaxy Mini</commonname>
         <ro.product.model>GT-S5570</ro.product.model>
         <ro.product.device>GT-S5570</ro.product.device>
@@ -250,11 +257,11 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Note II LTE</commonname>
-        <ro.product.model>GT-N7105</ro.product.model>
-        <ro.product.device>t0lte</ro.product.device>
+        <commonname>Galaxy Note II</commonname>
+        <ro.product.model>SCH-I605</ro.product.model>
+        <ro.product.device>t0ltevzw</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
-        <description></description>
+        <description>Verizon Galaxy Note 3</description>
     </device>
     <device>
         <commonname>Galaxy Note II</commonname>
@@ -276,6 +283,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>t0ltetmo</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
         <description>T-Mobile Galaxy Note II</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note II</commonname>
+        <ro.product.model>SPH-L900</ro.product.model>
+        <ro.product.device>t0ltespr</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description>Sprint Galaxy Note II</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note II LTE</commonname>
+        <ro.product.model>GT-N7105</ro.product.model>
+        <ro.product.device>t0lte</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Note 3</commonname>
@@ -576,6 +597,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I8190L</ro.product.model>
         <ro.product.device>goldenub</ro.product.device>
         <ro.product.board>golden</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III mini</commonname>
+        <ro.product.model>GT-I8190N</ro.product.model>
+        <ro.product.device>golden</ro.product.device>
+        <ro.product.board>DB8520H</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -924,13 +952,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-I8190</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I8190N</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -1344,13 +1365,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-I9128V</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9152</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -3674,13 +3688,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>SCH-I605</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>SCH-R530</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -4102,13 +4109,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SPH-L720</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SPH-L900</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>

@@ -33,6 +33,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>KT G Flex</description>
     </device>
     <device>
+        <commonname>G Pad 8.3</commonname>
+        <ro.product.model>LG-V500</ro.product.model>
+        <ro.product.device>awifi</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>G2</commonname>
         <ro.product.model>LG-D800</ro.product.model>
         <ro.product.device>g2</ro.product.device>
@@ -266,6 +273,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Optimus L9</commonname>
         <ro.product.model>LG-P760</ro.product.model>
+        <ro.product.device>u2</ro.product.device>
+        <ro.product.board>u2</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Optimus L9</commonname>
+        <ro.product.model>LG-P768</ro.product.model>
         <ro.product.device>u2</ro.product.device>
         <ro.product.board>u2</ro.product.board>
         <description></description>

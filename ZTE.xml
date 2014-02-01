@@ -26,13 +26,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Boost Warp 4G</commonname>
-        <ro.product.model>N9510</ro.product.model>
-        <ro.product.device>warplte</ro.product.device>
-        <ro.product.board>warplte</ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Kis III</commonname>
         <ro.product.model>V790</ro.product.model>
         <ro.product.device>roamer2</ro.product.device>
@@ -40,10 +33,38 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Valet</commonname>
+        <commonname>Merit</commonname>
+        <ro.product.model>ZTE-Z990G</ro.product.model>
+        <ro.product.device>roamer</ro.product.device>
+        <ro.product.board>roamer</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Score</commonname>
         <ro.product.model>Z665C</ro.product.model>
         <ro.product.device>seanplus</ro.product.device>
         <ro.product.board>seanplus</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Valet</commonname>
+        <ro.product.model>X500</ro.product.model>
+        <ro.product.device>X500</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Warp Sequent</commonname>
+        <ro.product.model>N861</ro.product.model>
+        <ro.product.device>warp2</ro.product.device>
+        <ro.product.board>warp2</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Warp 4G</commonname>
+        <ro.product.model>N9510</ro.product.model>
+        <ro.product.device>warplte</ro.product.device>
+        <ro.product.board>warplte</ro.product.board>
         <description></description>
     </device>
 </devices>
