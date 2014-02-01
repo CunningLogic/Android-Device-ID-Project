@@ -76,9 +76,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Nexus 4</commonname>
-        <ro.product.model>LG-E960</ro.product.model>
+        <ro.product.model>Nexus 4</ro.product.model>
         <ro.product.device>mako</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MAKO</ro.product.board>
         <description></description>
     </device>
     <device>

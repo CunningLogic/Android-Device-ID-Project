@@ -17,19 +17,12 @@ License for more details.
 You should have received a copy of the GNU General Public License
 along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
-<devices vendor="LENOVO">
+<devices vendor="NVIDIA">
     <device>
-        <commonname>A706</commonname>
-        <ro.product.model>Lenovo A706_ROW</ro.product.model>
-        <ro.product.device>armani_row</ro.product.device>
-        <ro.product.board>7x27</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>P700i</commonname>
-        <ro.product.model>Lenovo P700i</ro.product.model>
-        <ro.product.device>P700i</ro.product.device>
-        <ro.product.board>P700i</ro.product.board>
+        <commonname>Tegra Tab</commonname>
+        <ro.product.model>TegraNote-P1640</ro.product.model>
+        <ro.product.device>tegranote</ro.product.device>
+        <ro.product.board></ro.product.board>
         <description></description>
     </device>
 </devices>
