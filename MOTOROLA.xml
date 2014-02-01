@@ -180,6 +180,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Moto G</commonname>
+        <ro.product.model>XT1032</ro.product.model>
+        <ro.product.device>falcon_umts</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Moto X</commonname>
         <ro.product.model>XT1055</ro.product.model>
         <ro.product.device>ghost</ro.product.device>

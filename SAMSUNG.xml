@@ -320,6 +320,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>Verizon Galaxy Note 3</description>
     </device>
     <device>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N9005</ro.product.model>
+        <ro.product.device>hlte</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Galaxy Note 8.0</commonname>
         <ro.product.model>SAMSUNG-SGH-I467</ro.product.model>
         <ro.product.device>konalteatt</ro.product.device>
@@ -3955,13 +3962,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SM-N9002</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N9005</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
