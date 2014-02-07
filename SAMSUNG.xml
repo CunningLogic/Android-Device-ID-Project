@@ -495,6 +495,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>Sprint Galaxy S II JB build.prop info</description>
     </device>
     <device>
+        <commonname>Galaxy S II Plus</commonname>
+        <ro.product.model>GT-I9105P</ro.product.model>
+        <ro.product.device>s2vep</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Galaxy S II Skyrocket</commonname>
         <ro.product.model>SAMSUNG-SGH-I727</ro.product.model>
         <ro.product.device>SGH-I727</ro.product.device>
@@ -1346,13 +1353,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9105</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Samsung SII Plus</commonname>
-        <ro.product.model>GT-I9105P</ro.product.model>
-        <ro.product.device>s2vep</ro.product.device>
-        <ro.product.board>capri</ro.product.board>
         <description></description>
     </device>
     <device>
