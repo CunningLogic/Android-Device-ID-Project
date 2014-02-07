@@ -62,9 +62,23 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Desire S</commonname>
-        <ro.product.model></ro.product.model>
+        <ro.product.model>HTC Desire S</ro.product.model>
         <ro.product.device>saga</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>saga</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Desire SV</commonname>
+        <ro.product.model>HTC Desire SV</ro.product.model>
+        <ro.product.device>magnids</ro.product.device>
+        <ro.product.board>magnids</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Desire V</commonname>
+        <ro.product.model>HTC Desire V</ro.product.model>
+        <ro.product.device>primods</ro.product.device>
+        <ro.product.board>primods</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -216,9 +230,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Explorer</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>HTC Explorer A310e</ro.product.model>
+        <ro.product.device>pico</ro.product.device>
+        <ro.product.board>pico</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -416,6 +430,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>evita</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
+    </device>
+    <device>
+        <commonname>One X+</commonname>
+        <ro.product.model>HTC One X+</ro.product.model>
+        <ro.product.device>evitareul</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>AT&T One X+</description>
     </device>
     <device>
         <commonname>Raider</commonname>

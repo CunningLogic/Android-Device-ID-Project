@@ -33,6 +33,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Iconia Tab A211</commonname>
+        <ro.product.model>A211</ro.product.model>
+        <ro.product.device>picasso_e2</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Iconia Tab A500</commonname>
         <ro.product.model>A500</ro.product.model>
         <ro.product.device>picasso</ro.product.device>
@@ -44,6 +51,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A501</ro.product.model>
         <ro.product.device>picasso</ro.product.device>
         <ro.product.board>picasso</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Iconia Tab A511</commonname>
+        <ro.product.model>A511</ro.product.model>
+        <ro.product.device>picasso_m</ro.product.device>
+        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>

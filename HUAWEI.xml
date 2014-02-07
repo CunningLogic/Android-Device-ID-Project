@@ -26,10 +26,17 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Ascend II</commonname>
-        <ro.product.model>M865</ro.product.model>
-        <ro.product.device>hwm865</ro.product.device>
-        <ro.product.board>M865</ro.product.board>
+        <commonname>Ascend D1</commonname>
+        <ro.product.model>U9500</ro.product.model>
+        <ro.product.device>hwu9500</ro.product.device>
+        <ro.product.board>U9500</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Ascend D1 quad XL</commonname>
+        <ro.product.model>HUAWEI U9510E</ro.product.model>
+        <ro.product.device>hwu9510e</ro.product.device>
+        <ro.product.board>U9510E</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -37,6 +44,34 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U8815</ro.product.model>
         <ro.product.device>hwu8815</ro.product.device>
         <ro.product.board>U8815</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Ascend G300D</commonname>
+        <ro.product.model>HUAWEI U8825-1</ro.product.model>
+        <ro.product.device>hwu8825-1</ro.product.device>
+        <ro.product.board>U8825-1</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Ascend G500 pro</commonname>
+        <ro.product.model>U8836D</ro.product.model>
+        <ro.product.device>hwu8836D</ro.product.device>
+        <ro.product.board>U8836D</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Ascend G600</commonname>
+        <ro.product.model>HUAWEI U8950-1</ro.product.model>
+        <ro.product.device>hwu8950-1</ro.product.device>
+        <ro.product.board>U8950-1</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Ascend II</commonname>
+        <ro.product.model>M865</ro.product.model>
+        <ro.product.device>hwm865</ro.product.device>
+        <ro.product.board>M865</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -72,6 +107,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U8860</ro.product.model>
         <ro.product.device>hwu8860</ro.product.device>
         <ro.product.board>U8860</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Honor 2</commonname>
+        <ro.product.model>HUAWEI U9508</ro.product.model>
+        <ro.product.device>hwu9508</ro.product.device>
+        <ro.product.board>U9508</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>MediaPad</commonname>
+        <ro.product.model>HUAWEI MediaPad</ro.product.model>
+        <ro.product.device>hws7300u</ro.product.device>
+        <ro.product.board>hws7300u</ro.product.board>
         <description></description>
     </device>
     <device>
