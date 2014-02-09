@@ -261,7 +261,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-I605</ro.product.model>
         <ro.product.device>t0ltevzw</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
-        <description>Verizon Galaxy Note 3</description>
+        <description>Verizon Galaxy Note 2</description>
     </device>
     <device>
         <commonname>Galaxy Note II</commonname>
@@ -324,7 +324,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-N9005</ro.product.model>
         <ro.product.device>hlte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
-        <description></description>
+        <description>Galaxy Note 3 (Qualcomm SoC model)</description>
     </device>
     <device>
         <commonname>Galaxy Note 8.0</commonname>
@@ -1209,7 +1209,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Galaxy S Giorgio Armani</commonname>
         <ro.product.model>GT-I9010</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -1223,32 +1223,32 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9020</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9020A</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
+        <description>Nexus S (AT&T)</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9020T</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Nexus S</commonname>
         <ro.product.model>GT-I9023</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
+        <description>Nexus S (Super Clear LCD)</description>
     </device>
     <device>
         <commonname></commonname>
@@ -3904,14 +3904,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
-        <ro.product.model>SGH-T699</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy S Blaze</commonname>
         <ro.product.model>SGH-T769</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -3995,63 +3988,63 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900K</ro.product.model>
         <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Korea Telecom carrier variant</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900L</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.device>hltelgt</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>LG U+ carrier variant</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900P</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.device>hltespr</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Sprint carrier variant</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900R4</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.device>hlteusc</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>U.S. Cellular carrier variant</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900S</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.device>hlteskt</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>SK Telecom Carrier Variant</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900W8</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.device>hltecan</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Canadian carrier variant</description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 3</commonname>
         <ro.product.model>SM-N900X</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 10.1 (2014 Edition)</commonname>
         <ro.product.model>SM-P600</ro.product.model>
-        <ro.product.device></ro.product.device>
+        <ro.product.device>lt03wifixx</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
-        <commonname></commonname>
+        <commonname>Samsung Galaxy Note 10.1 (2014 Edition, 3G+32GB)</commonname>
         <ro.product.model>SM-P601</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>

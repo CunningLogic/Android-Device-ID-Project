@@ -52,4 +52,4 @@ Additional Notes When Contributing
 Special Thanks to all contributors:
 -----------------------------------
 
-Adam Lange, Anup Cowkur, Gunther ART, Markus Guidry, adumont
+Adam Lange, Anup Cowkur, Gunther ART, Markus Guidry, Itzael Martinez, Jacob Soo, Shen Ye, adumont, uberlaggydarwin, civicsiracer06, pylerSM, 
