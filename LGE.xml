@@ -187,10 +187,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>Sprint Optimus G</description>
     </device>
     <device>
-        <commonname>Optimus G Pro</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Optimus Hub</commonname>
+        <ro.product.model>LG-E510</ro.product.model>
+        <ro.product.device>univa_cis-xxx</ro.product.device>
+        <ro.product.board>univa</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -229,10 +229,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Optimus L3</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Optimus L3 Dual</commonname>
+        <ro.product.model>LG-E405</ro.product.model>
+        <ro.product.device>e1</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -244,9 +244,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus L5</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LG-E612</ro.product.model>
+        <ro.product.device>m4</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -258,17 +258,17 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus L7</commonname>
+        <ro.product.model>LG-P705</ro.product.model>
+        <ro.product.device>u0</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
+        <description>Chinese Optimus L7</description>
+    </device>
+    <device>
+        <commonname>Optimus L7</commonname>
         <ro.product.model>LG-P708g</ro.product.model>
         <ro.product.device>u0</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
         <description>Mexican Optimus L7</description>
-    </device>
-    <device>
-        <commonname>Optimus L7 II</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
     </device>
     <device>
         <commonname>Optimus L9</commonname>
@@ -307,9 +307,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus Me</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LG-P350</ro.product.model>
+        <ro.product.device>pecan</ro.product.device>
+        <ro.product.board>pecan</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -356,9 +356,9 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Optimus Slider</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>LG-VM701</ro.product.model>
+        <ro.product.device>VM701</ro.product.device>
+        <ro.product.board>lge_gelato</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -443,6 +443,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-KU5400</ro.product.model>
         <ro.product.device>p2</ro.product.device>
         <ro.product.board>p2</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Prada 3.0</commonname>
+        <ro.product.model>LG-P940</ro.product.model>
+        <ro.product.device>p2</ro.product.device>
+        <ro.product.board>p940</ro.product.board>
         <description></description>
     </device>
 </devices>

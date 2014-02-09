@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2014 Jon Sawyer
+
+This file is part of the Android Device ID Project (ADID).
+
+ADID is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your
+option) any later version.
+
+ADID is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
+License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar. If not, see http://www.gnu.org/licenses/.
+-->
+<devices vendor="PANTECH">
+    <device>
+        <commonname>Burst</commonname>
+        <ro.product.model>PantechP9070</ro.product.model>
+        <ro.product.device>presto</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Flex</commonname>
+        <ro.product.model>PantechP8010</ro.product.model>
+        <ro.product.device>oscar</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>SIRIUS Alpha</commonname>
+        <ro.product.model>IS06</ro.product.model>
+        <ro.product.device>jmasai</ro.product.device>
+        <ro.product.board>8x50</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Vega LTE EX</commonname>
+        <ro.product.model>IM-A820L</ro.product.model>
+        <ro.product.device>ef65l</ro.product.device>
+        <ro.product.board>MSM8660_SURF</ro.product.board>
+        <description></description>
+    </device>
+</devices>

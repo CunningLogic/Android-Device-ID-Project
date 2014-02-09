@@ -76,6 +76,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Droid Razr</commonname>
+        <ro.product.model>DROID RAZR</ro.product.model>
+        <ro.product.device>cdma_spyder</ro.product.device>
+        <ro.product.board>spyder</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Droid Razr</commonname>
         <ro.product.model>XT912</ro.product.model>
         <ro.product.device>cdma_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
@@ -149,6 +156,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT881</ro.product.model>
         <ro.product.device>cdma_yangtze</ro.product.device>
         <ro.product.board>yangtze</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Milestone</commonname>
+        <ro.product.model>A853</ro.product.model>
+        <ro.product.device>umts_sholes</ro.product.device>
+        <ro.product.board>sholes</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -229,6 +243,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Primus</commonname>
+        <ro.product.model>XT621</ro.product.model>
+        <ro.product.device>umts_primus</ro.product.device>
+        <ro.product.board>MSM7630_SURF</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Razr</commonname>
         <ro.product.model>IS12M</ro.product.model>
         <ro.product.device>cdma_spyder</ro.product.device>
@@ -257,6 +278,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Razr V</commonname>
+        <ro.product.model>XT885</ro.product.model>
+        <ro.product.device>umts_yangtze</ro.product.device>
+        <ro.product.board>yangtze</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Xoom</commonname>
         <ro.product.model>MZ601</ro.product.model>
         <ro.product.device>umts_everest</ro.product.device>
@@ -269,6 +297,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>stingray</ro.product.device>
         <ro.product.board></ro.product.board>
         <description>Verizon Xoom</description>
+    </device>
+    <device>
+        <commonname>Xoom 2 Media Edition</commonname>
+        <ro.product.model>XOOM 2 ME</ro.product.model>
+        <ro.product.device>fleming</ro.product.device>
+        <ro.product.board>fleming</ro.product.board>
+        <description></description>
     </device>
     <device>
         <commonname>XT800 Zhishang</commonname>

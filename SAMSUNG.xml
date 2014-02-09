@@ -19,6 +19,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="SAMSUNG">
     <device>
+        <commonname>Admire</commonname>
+        <ro.product.model>SCH-R720</ro.product.model>
+        <ro.product.device>SCH-R720</ro.product.device>
+        <ro.product.board>SCH-R720</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Epic 4G</commonname>
         <ro.product.model>SPH-D700</ro.product.model>
         <ro.product.device>SPH-D700</ro.product.device>
@@ -64,6 +71,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Galaxy Ace</commonname>
         <ro.product.model>GT-S5830C</ro.product.model>
         <ro.product.device>GT-S5830C</ro.product.device>
+        <ro.product.board>cooperve</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Ace</commonname>
+        <ro.product.model>GT-S5830i</ro.product.model>
+        <ro.product.device>GT-S5830i</ro.product.device>
         <ro.product.board>cooperve</ro.product.board>
         <description></description>
     </device>
@@ -199,6 +213,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>SGH-T679</ro.product.device>
         <ro.product.board>SGH-T679</ro.product.board>
         <description>T-Mobile Galaxy Exhibit 4G</description>
+    </device>
+    <device>
+        <commonname>Galaxy Gio</commonname>
+        <ro.product.model>GT-S5660</ro.product.model>
+        <ro.product.device>GT-S5660</ro.product.device>
+        <ro.product.board>GT-S5660</ro.product.board>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy M Style</commonname>
@@ -377,10 +398,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Note 8.0</commonname>
+        <ro.product.model>GT-N5100</ro.product.model>
+        <ro.product.device>kona3g</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 8.0</commonname>
         <ro.product.model>SAMSUNG-SGH-I467</ro.product.model>
         <ro.product.device>konalteatt</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
         <description>AT&T Galaxy Note 8.0</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 10.1</commonname>
+        <ro.product.model>GT-N8000</ro.product.model>
+        <ro.product.device>p4noterf</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Note 10.1</commonname>
@@ -425,6 +460,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Galaxy Player 5.0</commonname>
+        <ro.product.model>YP-G70</ro.product.model>
+        <ro.product.device>YP-G70</ro.product.device>
+        <ro.product.board>YP-G70</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Galaxy Pocket</commonname>
         <ro.product.model>GT-S5300</ro.product.model>
         <ro.product.device>GT-S5300</ro.product.device>
@@ -461,9 +503,23 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy S Advance</commonname>
+        <ro.product.model>GT-I9070</ro.product.model>
+        <ro.product.device>GT-I9070</ro.product.device>
+        <ro.product.board>montblanc</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S Advance</commonname>
         <ro.product.model>GT-I9070P</ro.product.model>
         <ro.product.device>GT-I9070P</ro.product.device>
         <ro.product.board>janice</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S Duos</commonname>
+        <ro.product.model>GT-S7562</ro.product.model>
+        <ro.product.device>kyleopen</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -678,6 +734,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy S III mini</commonname>
+        <ro.product.model>GT-I8190</ro.product.model>
+        <ro.product.device>golden</ro.product.device>
+        <ro.product.board>DB8520H</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy S III mini</commonname>
         <ro.product.model>GT-I8190L</ro.product.model>
         <ro.product.device>goldenub</ro.product.device>
         <ro.product.board>golden</ro.product.board>
@@ -740,6 +803,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>T-Mobile Galaxy S4</description>
     </device>
     <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SPH-L720</ro.product.model>
+        <ro.product.device>jfltespr</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Sprint Galaxy S4</description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SPH-L720T</ro.product.model>
+        <ro.product.device>jflterefreshspr</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Sprint Galaxy S4 with Tri-Band LTE</description>
+    </device>
+    <device>
         <commonname>Galaxy S4 Active</commonname>
         <ro.product.model>GT-I9295</ro.product.model>
         <ro.product.device>jactivelte</ro.product.device>
@@ -775,17 +852,38 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Tab 2 7.0</commonname>
-        <ro.product.model>GT-P3110</ro.product.model>
-        <ro.product.device>espressowifi</ro.product.device>
-        <ro.product.board>piranha</ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Galaxy Tab</commonname>
         <ro.product.model>GT-P1010</ro.product.model>
         <ro.product.device>GT-P1010</ro.product.device>
         <ro.product.board>GT-P1010</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Tab 2</commonname>
+        <ro.product.model>GT-P3100</ro.product.model>
+        <ro.product.device>espressorf</ro.product.device>
+        <ro.product.board>piranha</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Tab 2</commonname>
+        <ro.product.model>GT-P3110</ro.product.model>
+        <ro.product.device>espressowifi</ro.product.device>
+        <ro.product.board>piranha</ro.product.board>
+        <description>WiFi only Galaxy Tab 2</description>
+    </device>
+    <device>
+        <commonname>Galaxy Tab 2</commonname>
+        <ro.product.model>GT-P3113</ro.product.model>
+        <ro.product.device>espressowifi</ro.product.device>
+        <ro.product.board>piranha</ro.product.board>
+        <description>US WiFi only Galaxy Tab 2</description>
+    </device>
+    <device>
+        <commonname>Galaxy Tab 2 10.1</commonname>
+        <ro.product.model>GT-P5100</ro.product.model>
+        <ro.product.device>espresso10rf</ro.product.device>
+        <ro.product.board>piranha</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -800,6 +898,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P7300</ro.product.model>
         <ro.product.device>GT-P7300</ro.product.device>
         <ro.product.board>GT-P7300</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Tab 8.9</commonname>
+        <ro.product.model>GT-P7310</ro.product.model>
+        <ro.product.device>GT-P7310</ro.product.device>
+        <ro.product.board>GT-P7310</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -849,6 +954,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5363</ro.product.model>
         <ro.product.device>GT-S5363</ro.product.device>
         <ro.product.board>totoro</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Young Duos</commonname>
+        <ro.product.model>GT-S6312</ro.product.model>
+        <ro.product.device>roy</ro.product.device>
+        <ro.product.board>7x27</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -1029,13 +1141,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-I8180C</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I8190</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -1588,13 +1693,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>GT-N5100</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>GT-N5105</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -1673,13 +1771,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-N7108D</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-N8000</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -2680,13 +2771,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>GT-S5660</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>GT-S5660B</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -2841,13 +2925,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>GT-S5830I</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>GT-S5830L</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -2975,13 +3052,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-S6310T</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-S6312</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -3458,13 +3528,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-S7560M</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-S7562</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -4074,13 +4137,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SPH-L600</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SPH-L720</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
