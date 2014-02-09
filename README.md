@@ -45,11 +45,11 @@ Additional Notes When Contributing
   the most common name.
 * If there are multiple different variants of the ro. values, make a new
   device entry for each one, and note the conflicts in the description.
-* Only sumbit complete device entries.
+* Only submit complete device entries.
 * If a new manufacture is added to the project, please have the filename
   in upper cae, with a lower case file extension.
 
 Special Thanks to all contributors:
 -----------------------------------
 
-Adam Lange, Anup Cowkur, Gunther ART, Markus Guidry, Itzael Martinez, Jacob Soo, Shen Ye, adumont, uberlaggydarwin, civicsiracer06, pylerSM, 
+Adam Lange, Anup Cowkur, Gunther ART, Markus Guidry, Itzael Martinez, Jacob Soo, Shen Ye, adumont, uberlaggydarwin, civicsiracer06, pylerSM
