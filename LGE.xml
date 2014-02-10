@@ -187,6 +187,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>Sprint Optimus G</description>
     </device>
     <device>
+        <commonname>Optimus G Pro</commonname>
+        <ro.product.model>LG-E980</ro.product.model>
+        <ro.product.device>geefhd</ro.product.device>
+        <ro.product.board>GKATT</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Optimus Hub</commonname>
         <ro.product.model>LG-E510</ro.product.model>
         <ro.product.device>univa_cis-xxx</ro.product.device>
