@@ -47,7 +47,7 @@ Additional Notes When Contributing
   device entry for each one, and note the conflicts in the description.
 * Only submit complete device entries.
 * If a new manufacture is added to the project, please have the filename
-  in upper cae, with a lower case file extension.
+  in upper case, with a lower case file extension.
 
 Special Thanks to all contributors:
 -----------------------------------
