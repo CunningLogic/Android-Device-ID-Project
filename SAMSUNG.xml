@@ -321,10 +321,31 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N900</ro.product.model>
+        <ro.product.device>ha3g</ro.product.device>
+        <ro.product.board>universal5420</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
         <ro.product.model>SAMSUNG-SM-N900A</ro.product.model>
         <ro.product.device>hlteatt</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <description>AT&T Galaxy Note 3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N900D</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>docomo Galaxy Note 3 (SC-01F)</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N900J</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>au Galaxy Note 3 (SCL22)</description>
     </device>
     <device>
         <commonname>Galaxy Note 3</commonname>
@@ -391,9 +412,44 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N9000Q</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>Turkish Galaxy Note 3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
         <ro.product.model>SM-N9005</ro.product.model>
         <ro.product.device>hlte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N9007</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>Australian Galaxy Note 3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N9008</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>Chinese TD-SCDMA Galaxy Note 3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3</commonname>
+        <ro.product.model>SM-N9009</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description>Chinese CDMA Galaxy Note 3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3 Duos</commonname>
+        <ro.product.model>SM-N9002</ro.product.model>
+        <ro.product.device></ro.product.device>
+        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
@@ -4039,48 +4095,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SM-G730V</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N900</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N9002</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N9007</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N9008</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N9008V</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-N9009</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
