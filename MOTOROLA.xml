@@ -89,6 +89,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Droid Razr HD</commonname>
+        <ro.product.model>XT926</ro.product.model>
+        <ro.product.device>vanquish</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Droid Razr M</commonname>
         <ro.product.model>XT907</ro.product.model>
         <ro.product.device>scorpion_mini</ro.product.device>
@@ -195,10 +202,38 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Moto G</commonname>
+        <ro.product.model>XT1028</ro.product.model>
+        <ro.product.device>falcon_cdma</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <description>Verizon Moto G</description>
+    </device>
+    <device>
+        <commonname>Moto G</commonname>
+        <ro.product.model>XT1031</ro.product.model>
+        <ro.product.device>falcon_cdma</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <description>Boost Mobile Moto G</description>
+    </device>
+    <device>
+        <commonname>Moto G</commonname>
         <ro.product.model>XT1032</ro.product.model>
         <ro.product.device>falcon_umts</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
-        <description></description>
+        <description>Int'l Moto G</description>
+    </device>
+    <device>
+        <commonname>Moto G</commonname>
+        <ro.product.model>XT1033</ro.product.model>
+        <ro.product.device>falcon_umtsds</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <description>dual-SIM Moto G</description>
+    </device>
+    <device>
+        <commonname>Moto G</commonname>
+        <ro.product.model>XT1034</ro.product.model>
+        <ro.product.device>falcon_umts</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <description>US Moto G</description>
     </device>
     <device>
         <commonname>Moto X</commonname>
@@ -271,10 +306,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>KT Razr</description>
     </device>
     <device>
+        <commonname>Razr HD</commonname>
+        <ro.product.model>XT925</ro.product.model>
+        <ro.product.device>vanquish_u</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Razr i</commonname>
         <ro.product.model>XT890</ro.product.model>
         <ro.product.device>smi</ro.product.device>
         <ro.product.board>smi</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Razr M</commonname>
+        <ro.product.model>XT905</ro.product.model>
+        <ro.product.device>smq_u</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
