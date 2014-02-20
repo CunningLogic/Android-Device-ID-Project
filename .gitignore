@@ -1,10 +1,10 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+thumbs.db
 
 # Icon must ends with two \r.
 Icon
-
 
 # Thumbnails
 ._*
