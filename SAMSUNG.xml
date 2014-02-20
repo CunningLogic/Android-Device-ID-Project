@@ -943,6 +943,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Galaxy Tab 3 8.0</commonname>
+        <ro.product.model>SM-T311</ro.product.model>
+        <ro.product.device>lt013g</ro.product.device>
+        <ro.product.board>smdk4x12</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>Galaxy Tab 7.7</commonname>
         <ro.product.model>GT-P6800</ro.product.model>
         <ro.product.device>GT-P6800</ro.product.device>

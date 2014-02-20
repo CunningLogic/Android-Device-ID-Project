@@ -26,6 +26,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>IdeaPhone S920</commonname>
+        <ro.product.model>Lenovo S920_ROW</ro.product.model>
+        <ro.product.device>S920_ROW</ro.product.device>
+        <ro.product.board>S920_ROW</ro.product.board>
+        <description></description>
+    </device>
+    <device>
         <commonname>IdeaTab A2107A</commonname>
         <ro.product.model>IdeaTab A2107A-H</ro.product.model>
         <ro.product.device>a2_3g_data</ro.product.device>

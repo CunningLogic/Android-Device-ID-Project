@@ -31,14 +31,14 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>IS12S</ro.product.model>
         <ro.product.device>IS12S</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
-        <description></description>
+        <description>KDDI Xperia acro HD</description>
     </device>
     <device>
         <commonname>Xperia acro HD</commonname>
         <ro.product.model>SO-03D</ro.product.model>
         <ro.product.device>SO-03D</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
-        <description></description>
+        <description>docomo Xperia acro HD</description>
     </device>
     <device>
         <commonname>Xperia acro HD</commonname>
@@ -73,7 +73,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>S39h</ro.product.model>
         <ro.product.device>S39h</ro.product.device>
         <ro.product.board>arima89_we_s_jb2</ro.product.board>
-        <description></description>
+        <description>China Unicom Xperia C</description>
     </device>
     <device>
         <commonname>Xperia E</commonname>
@@ -164,7 +164,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LT28at</ro.product.model>
         <ro.product.device>LT28at</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
-        <description></description>
+        <description>AT&T Xperia ion</description>
     </device>
     <device>
         <commonname>Xperia ion</commonname>
@@ -310,22 +310,22 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Xperia SP</commonname>
         <ro.product.model>M35c</ro.product.model>
         <ro.product.device>M35c</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>M35h</ro.product.model>
         <ro.product.device>M35h</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>M35t</ro.product.model>
         <ro.product.device>M35t</ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Chinese TD-LTE Xperia SP</description>
     </device>
     <device>
         <commonname>Xperia SX</commonname>
@@ -511,10 +511,17 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Xperia Z</commonname>
+        <ro.product.model>C6606</ro.product.model>
+        <ro.product.device>C6606</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>T-Mobile Xperia Z</description>
+    </device>
+    <device>
+        <commonname>Xperia Z</commonname>
         <ro.product.model>SO-02E</ro.product.model>
         <ro.product.device>SO-02E</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <description></description>
+        <description>docomo Xperia Z</description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
@@ -528,7 +535,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>C6806_GPe</ro.product.model>
         <ro.product.device>C6806</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
-        <description></description>
+        <description>Goggle Play Edition Xperia Z Ultra</description>
     </device>
     <device>
         <commonname>Xperia Z Ultra</commonname>
@@ -633,7 +640,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SO-01F</ro.product.model>
         <ro.product.device>SO-01F</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
-        <description></description>
+        <description>docomo Xperia Z1</description>
     </device>
     <device>
         <commonname>Xperia Z1 Compact</commonname>
@@ -660,7 +667,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>Xperia Z1s</commonname>
         <ro.product.model>C6916</ro.product.model>
         <ro.product.device>C6916</ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.board>MSM8974</ro.product.board>
         <description></description>
     </device>
 </devices>
