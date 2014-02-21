@@ -727,6 +727,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy S III</commonname>
+        <ro.product.model>SCH-R530C</ro.product.model>
+        <ro.product.device>d2cri</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Cricket Galaxy S III</description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
         <ro.product.model>SCH-L710</ro.product.model>
         <ro.product.device>d2spi</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
@@ -826,7 +833,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Galaxy S4</commonname>
         <ro.product.model>GT-I9505</ro.product.model>
-        <ro.product.device>jflte</ro.product.device>
+        <ro.product.device>jfltexx</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
@@ -836,6 +843,27 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>jfltevzw</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <description>Verizon Galaxy S4</description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SCH-R970</ro.product.model>
+        <ro.product.device>jflteusc</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>US Cellular Galaxy S4</description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SCH-R970C</ro.product.model>
+        <ro.product.device>jfltecri</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Cricket Galaxy S4</description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
+        <ro.product.model>SCH-R970X</ro.product.model>
+        <ro.product.device>jfltecsp</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>C-Spire Galaxy S4</description>
     </device>
     <device>
         <commonname>Galaxy S4</commonname>
@@ -885,6 +913,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>jactivelteatt</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <description>AT&T Galaxy S4 Active</description>
+    </device>
+    <device>
+        <commonname>Galaxy S4 Duos</commonname>
+        <ro.product.model>GT-I9508</ro.product.model>
+        <ro.product.device>jfltezm</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S4 Google Play Edition</commonname>
@@ -1736,13 +1771,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>GT-I9507V</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>GT-I9508</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -3870,13 +3898,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname></commonname>
-        <ro.product.model>SCH-R530C</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
         <ro.product.model>SCH-R530X</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
@@ -3920,20 +3941,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SCH-R960</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SCH-R970C</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SCH-R970X</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
@@ -4172,13 +4179,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SPH-M950</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SSCH-R970</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
