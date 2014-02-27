@@ -817,6 +817,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Galaxy S III mini</commonname>
+        <ro.product.model>SAMSUNG-SM-G730A</ro.product.model>
+        <ro.product.device>goldenlteatt</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>AT&T Galaxy S III mini</description>
+    </device>
+    <device>
+        <commonname>Galaxy S III mini</commonname>
+        <ro.product.model>SM-G730V</ro.product.model>
+        <ro.product.device>goldenltevzw</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>Verizon Galaxy S III mini</description>
+    </device>
+    <device>
         <commonname>Galaxy S4</commonname>
         <ro.product.model>GT-I9500</ro.product.model>
         <ro.product.device>ja3g</ro.product.device>
@@ -4095,20 +4109,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname></commonname>
         <ro.product.model>SM-C105A</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-G730A</ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname></commonname>
-        <ro.product.model>SM-G730V</ro.product.model>
         <ro.product.device></ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
