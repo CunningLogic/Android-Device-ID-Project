@@ -902,6 +902,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy S4</commonname>
+        <ro.product.model>SHV-E300S</ro.product.model>
+        <ro.product.device>jalteskt</ro.product.device>
+        <ro.product.board>universal5410</ro.product.board>
+        <description>SK Telecom Galaxy S4</description>
+    </device>
+    <device>
+        <commonname>Galaxy S4</commonname>
         <ro.product.model>SPH-L720</ro.product.model>
         <ro.product.device>jfltespr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
