@@ -237,6 +237,22 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Moto X</commonname>
+        <ro.product.model>XT1052</ro.product.model>
+        <ro.product.name>ghost_retgb</ro.product.name>
+        <ro.product.device>ghost</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Moto X</commonname>
+        <ro.product.model>XT1053</ro.product.model>
+        <ro.product.name>ghost_retail</ro.product.name>
+        <ro.product.device>ghost</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <description>T-Mobile Moto X</description>
+    </device>
+    <device>
+        <commonname>Moto X</commonname>
         <ro.product.model>XT1055</ro.product.model>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
@@ -245,6 +261,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Moto X</commonname>
         <ro.product.model>XT1056</ro.product.model>
+        <ro.product.name>ghost_sprint</ro.product.name>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <description>Sprint Moto X</description>

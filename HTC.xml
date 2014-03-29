@@ -19,38 +19,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="HTC">
     <device>
-        <commonname>Amaze 4G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Aria</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>ChaCha</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Desire</commonname>
         <ro.product.model>HTC Desire</ro.product.model>
         <ro.product.device>bravo</ro.product.device>
         <ro.product.board>bravo</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Desire C</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
@@ -96,13 +68,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Desire Z</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device>vision</ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Desire 500</commonname>
         <ro.product.model>HTC Desire 500</ro.product.model>
         <ro.product.device>z4u</ro.product.device>
@@ -131,13 +96,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Droid Eris</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Droid Incredible</commonname>
         <ro.product.model>ADR6300</ro.product.model>
         <ro.product.device>inc</ro.product.device>
@@ -145,17 +103,19 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Droid Incredible 2</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <commonname>Droid Incredible 4G LTE</commonname>
+        <ro.product.model>ADR6410LVW</ro.product.model>
+        <ro.product.name>fireball</ro.product.name>
+        <ro.product.device>fireball</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
         <commonname>Droid Incredible 4G LTE</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
+        <ro.product.model>htc_fireball</ro.product.model>
+        <ro.product.name>fireball</ro.product.name>
+        <ro.product.device>fireball</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
         <description></description>
     </device>
     <device>
@@ -180,13 +140,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Evo View 4G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Evo 3D</commonname>
         <ro.product.model>PG86100</ro.product.model>
         <ro.product.device>shooter</ro.product.device>
@@ -194,24 +147,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Evo 3D</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device>shooteru</ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Evo 4G</commonname>
         <ro.product.model>PC36100</ro.product.model>
         <ro.product.device>supersonic</ro.product.device>
         <ro.product.board>supersonic</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Evo 4G+</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>
@@ -236,34 +175,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Gratia</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>G1</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>G2</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Hero</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Incredible S</commonname>
         <ro.product.model>HTC Incredible S</ro.product.model>
         <ro.product.device>vivo</ro.product.device>
@@ -278,34 +189,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Inspire 4G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>J</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>J Butterfly</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Legend</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Merge</commonname>
         <ro.product.model>ADR6325</ro.product.model>
         <ro.product.device>lexikon</ro.product.device>
@@ -313,32 +196,20 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>myTouch 3G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <commonname>One</commonname>
+        <ro.product.model>HTC6500LVW</ro.product.model>
+        <ro.product.name>HTCOneVZW</ro.product.name>
+        <ro.product.device>m7wlv</ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
+        <description>Verizon One</description>
     </device>
     <device>
-        <commonname>myTouch 3G Slide</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
+        <commonname>One</commonname>
+        <ro.product.model>HTCONE</ro.product.model>
+        <ro.product.name>sprint_wwe</ro.product.name>
+        <ro.product.device>m7wls</ro.product.device>
         <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>myTouch 4G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>myTouch 4G Slide</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
+        <description>Sprint One</description>
     </device>
     <device>
         <commonname>One</commonname>
@@ -351,6 +222,14 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <commonname>One</commonname>
         <ro.product.model>HTCONE</ro.product.model>
         <ro.product.device>m7wls</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <description></description>
+    </device>
+    <device>
+        <commonname>One mini</commonname>
+        <ro.product.model>HTC One mini</ro.product.model>
+        <ro.product.name>htc_europe</ro.product.name>
+        <ro.product.device>m4</ro.product.device>
         <ro.product.board></ro.product.board>
         <description></description>
     </device>
@@ -425,13 +304,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>AT&T One X</description>
     </device>
     <device>
-        <commonname>One XL</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device>evita</ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>One X+</commonname>
         <ro.product.model>HTC One X+</ro.product.model>
         <ro.product.device>evitareul</ro.product.device>
@@ -453,27 +325,6 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Rhyme</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Salsa</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Sensation XE</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Sensation Z710a</commonname>
         <ro.product.model>HTC Sensation Z710a</ro.product.model>
         <ro.product.device>pyramid</ro.product.device>
@@ -481,31 +332,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Tattoo</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>ThunderBolt</commonname>
         <ro.product.model>ADR6400L</ro.product.model>
         <ro.product.device>mecha</ro.product.device>
         <ro.product.board>mecha</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Vivid 4G</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Wildfire</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
         <description></description>
     </device>
     <device>

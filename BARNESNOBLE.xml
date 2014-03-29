@@ -25,26 +25,5 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.board>encore</ro.product.board>
         <description></description>
     </device>
-    <device>
-        <commonname>Nook Tablet</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Nook HD</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Nook HD +</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
 </devices>
 

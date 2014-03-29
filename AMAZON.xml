@@ -19,38 +19,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
 -->
 <devices vendor="AMAZON">
     <device>
-        <commonname>Kindle Fire</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Kindle Fire HD</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
         <commonname>Kindle Fire HDX</commonname>
         <ro.product.model>KFTHWI</ro.product.model>
         <ro.product.device>thor</ro.product.device>
         <ro.product.board>thor</ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Kindle Fire HD 8.9</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
-        <description></description>
-    </device>
-    <device>
-        <commonname>Kindle Fire HDX 8.9</commonname>
-        <ro.product.model></ro.product.model>
-        <ro.product.device></ro.product.device>
-        <ro.product.board></ro.product.board>
         <description></description>
     </device>
 </devices>
