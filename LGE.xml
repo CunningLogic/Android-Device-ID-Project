@@ -49,9 +49,34 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>G2</commonname>
         <ro.product.model>LG-D801</ro.product.model>
+        <ro.product.name>g2_tmo_us</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <description>T-Mobile G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-D802</ro.product.model>
+        <ro.product.name>g2_tmo_com</ro.product.name>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>T-Mobile Germany G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-D802</ro.product.model>
+        <ro.product.name>g2_vdf_com</ro.product.name>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Vodafone G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-D803</ro.product.model>
+        <ro.product.name>g2_bell_ca</ro.product.name>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Bell Canada G2</description>
     </device>
     <device>
         <commonname>G2</commonname>
@@ -60,6 +85,14 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <description>Rogers G2</description>
+    </device>
+    <device>
+        <commonname>G2</commonname>
+        <ro.product.model>LG-D803</ro.product.model>
+        <ro.product.name>g2_tls_ca</ro.product.name>
+        <ro.product.device>g2</ro.product.device>
+        <ro.product.board>MSM8974</ro.product.board>
+        <description>Telus G2</description>
     </device>
     <device>
         <commonname>G2</commonname>

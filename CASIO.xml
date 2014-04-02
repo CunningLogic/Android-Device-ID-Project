@@ -21,6 +21,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>G'zOne Commando C771</commonname>
         <ro.product.model>C771</ro.product.model>
+        <ro.product.name>C771</ro.product.name>
         <ro.product.device>C771</ro.product.device>
         <ro.product.board>C771</ro.product.board>
         <description></description>
