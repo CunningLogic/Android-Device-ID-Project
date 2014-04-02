@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Lenovo A706_ROW</ro.product.model>
         <ro.product.device>armani_row</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Lenovo S920_ROW</ro.product.model>
         <ro.product.device>S920_ROW</ro.product.device>
         <ro.product.board>S920_ROW</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>IdeaTab A2107A-H</ro.product.model>
         <ro.product.device>a2_3g_data</ro.product.device>
         <ro.product.board>a2_3g_data</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Lenovo P700i</ro.product.model>
         <ro.product.device>P700i</ro.product.device>
         <ro.product.board>P700i</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

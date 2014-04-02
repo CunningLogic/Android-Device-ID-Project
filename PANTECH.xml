@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PantechP9070</ro.product.model>
         <ro.product.device>presto</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PantechP8010</ro.product.model>
         <ro.product.device>oscar</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>IS06</ro.product.model>
         <ro.product.device>jmasai</ro.product.device>
         <ro.product.board>8x50</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>IM-A820L</ro.product.model>
         <ro.product.device>ef65l</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nokia_X</ro.product.model>
         <ro.product.device>msm8625</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>S500</ro.product.model>
         <ro.product.device>a9</ro.product.device>
         <ro.product.board>swing</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A100</ro.product.model>
         <ro.product.device>vangogh</ro.product.device>
         <ro.product.board>vangogh</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A211</ro.product.model>
         <ro.product.device>picasso_e2</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A500</ro.product.model>
         <ro.product.device>picasso</ro.product.device>
         <ro.product.board>picasso</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A501</ro.product.model>
         <ro.product.device>picasso</ro.product.device>
         <ro.product.board>picasso</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A511</ro.product.model>
         <ro.product.device>picasso_m</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A700</ro.product.model>
         <ro.product.device>picasso_mf</ro.product.device>
         <ro.product.board>picasso_mf</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Liquid MT</ro.product.model>
         <ro.product.device>a4</ro.product.device>
         <ro.product.board>paso</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Z120</ro.product.model>
         <ro.product.device>Z2</ro.product.device>
         <ro.product.board>Jive</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

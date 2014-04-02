@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Galaxy Nexus</ro.product.model>
         <ro.product.device>maguro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Covers models GT-I9250, GT-I9250T, SHW-M420K & SHW-M420S.</description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Galaxy Nexus</ro.product.model>
         <ro.product.device>toro</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Covers models SCH-I515 & SCH-I516.</description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Galaxy Nexus</ro.product.model>
         <ro.product.device>toroplus</ro.product.device>
         <ro.product.board>tuna</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Covers model SPH-L700.</description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Galaxy 1</ro.product.model>
         <ro.product.device>glass-1</ro.product.device>
         <ro.product.board>notle</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Google Glass first edition (XE12)</description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model></ro.product.model>
         <ro.product.device>passion</ro.product.device>
         <ro.product.board>mahimahi</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model></ro.product.model>
         <ro.product.device>phantasm</ro.product.device>
         <ro.product.board>steelhead</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus S</ro.product.model>
         <ro.product.device>crespo</ro.product.device>
         <ro.product.board>herring</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Covers models GT-I9020, GT-I9020A, GT-I9020T, GT-I9023 & SHW-M200.</description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-D720</ro.product.model>
         <ro.product.device>crespo4g</ro.product.device>
         <ro.product.board>herring</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus 4</ro.product.model>
         <ro.product.device>mako</ro.product.device>
         <ro.product.board>MAKO</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -86,6 +95,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-D820</ro.product.model>
         <ro.product.device>hammerhead</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -93,6 +103,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-D821</ro.product.model>
         <ro.product.device>hammerhead</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -100,6 +111,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus 7</ro.product.model>
         <ro.product.device>grouper</ro.product.device>
         <ro.product.board>grouper</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -107,6 +119,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus 7</ro.product.model>
         <ro.product.device>tilapia</ro.product.device>
         <ro.product.board>tilapia</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -114,6 +127,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus 7</ro.product.model>
         <ro.product.device>flo</ro.product.device>
         <ro.product.board>flo</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -121,6 +135,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus 7</ro.product.model>
         <ro.product.device>deb</ro.product.device>
         <ro.product.board>deb</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -128,6 +143,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Nexus 10</ro.product.model>
         <ro.product.device>manta</ro.product.device>
         <ro.product.board>manta</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

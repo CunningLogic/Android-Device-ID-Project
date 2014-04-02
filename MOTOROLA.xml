@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MB886</ro.product.model>
         <ro.product.device>qinara</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MB865</ro.product.model>
         <ro.product.device>edison</ro.product.device>
         <ro.product.board>edison</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MB860</ro.product.model>
         <ro.product.device>olympus</ro.product.device>
         <ro.product.board>olympus</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MB525</ro.product.model>
         <ro.product.device>umts_jordan</ro.product.device>
         <ro.product.board>jordan</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>TinBoost</ro.product.model>
         <ro.product.device>TinBoost</ro.product.device>
         <ro.product.board>MSM7225A-1</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MB526</ro.product.model>
         <ro.product.device>umts_jordan</ro.product.device>
         <ro.product.board>jordan</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Droid</ro.product.model>
         <ro.product.device>sholes</ro.product.device>
         <ro.product.board>sholes</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID BIONIC</ro.product.model>
         <ro.product.device>cdma_targa</ro.product.device>
         <ro.product.board>targa</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID RAZR</ro.product.model>
         <ro.product.device>cdma_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -86,6 +95,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT912</ro.product.model>
         <ro.product.device>cdma_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -93,6 +103,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT926</ro.product.model>
         <ro.product.device>vanquish</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -100,6 +111,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT907</ro.product.model>
         <ro.product.device>scorpion_mini</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -107,6 +119,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROIDX</ro.product.model>
         <ro.product.device>cdma_shadow</ro.product.device>
         <ro.product.board>shadow</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -114,6 +127,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID X2</ro.product.model>
         <ro.product.device>daytona</ro.product.device>
         <ro.product.board>daytona</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -121,6 +135,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1080</ro.product.model>
         <ro.product.device>obake</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -128,6 +143,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID2</ro.product.model>
         <ro.product.device>cdma_droid2</ro.product.device>
         <ro.product.board>droid2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -135,6 +151,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID2 GLOBAL</ro.product.model>
         <ro.product.device>cdma_droid2</ro.product.device>
         <ro.product.board>droid2we</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -142,6 +159,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID3</ro.product.model>
         <ro.product.device>cdma_solana</ro.product.device>
         <ro.product.board>solana</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -149,6 +167,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DROID4</ro.product.model>
         <ro.product.device>cdma_maserati</ro.product.device>
         <ro.product.board>maserati</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -156,6 +175,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT901</ro.product.model>
         <ro.product.device>solstice</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -163,6 +183,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT881</ro.product.model>
         <ro.product.device>cdma_yangtze</ro.product.device>
         <ro.product.board>yangtze</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -170,6 +191,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A853</ro.product.model>
         <ro.product.device>umts_sholes</ro.product.device>
         <ro.product.board>sholes</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -177,6 +199,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Milestone X</ro.product.model>
         <ro.product.device>cdma_shadow</ro.product.device>
         <ro.product.board>shadow</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -184,6 +207,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>A953</ro.product.model>
         <ro.product.device>umts_milestone2</ro.product.device>
         <ro.product.board>A953</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -191,6 +215,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT883</ro.product.model>
         <ro.product.device>cdma_solana</ro.product.device>
         <ro.product.board>solana</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -198,6 +223,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Motorola-F100</ro.product.model>
         <ro.product.device>G2</ro.product.device>
         <ro.product.board>G2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -205,6 +231,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1028</ro.product.model>
         <ro.product.device>falcon_cdma</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Verizon Moto G</description>
     </device>
     <device>
@@ -212,6 +239,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1031</ro.product.model>
         <ro.product.device>falcon_cdma</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Boost Mobile Moto G</description>
     </device>
     <device>
@@ -219,6 +247,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1032</ro.product.model>
         <ro.product.device>falcon_umts</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Int'l Moto G</description>
     </device>
     <device>
@@ -226,6 +255,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1033</ro.product.model>
         <ro.product.device>falcon_umtsds</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>dual-SIM Moto G</description>
     </device>
     <device>
@@ -233,6 +263,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1034</ro.product.model>
         <ro.product.device>falcon_umts</ro.product.device>
         <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>US Moto G</description>
     </device>
     <device>
@@ -241,6 +272,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>ghost_retgb</ro.product.name>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -249,6 +281,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>ghost_retail</ro.product.name>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>T-Mobile Moto X</description>
     </device>
     <device>
@@ -256,6 +289,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1055</ro.product.model>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>US Cellular Moto X</description>
     </device>
     <device>
@@ -264,6 +298,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>ghost_sprint</ro.product.name>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Sprint Moto X</description>
     </device>
     <device>
@@ -271,6 +306,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1058</ro.product.model>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>AT&T Moto X</description>
     </device>
     <device>
@@ -278,6 +314,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT1060</ro.product.model>
         <ro.product.device>ghost</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Verizon Moto X</description>
     </device>
     <device>
@@ -285,6 +322,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT897</ro.product.model>
         <ro.product.device>asanti_c</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -292,6 +330,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MB855</ro.product.model>
         <ro.product.device>sunfire</ro.product.device>
         <ro.product.board>sunfire</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -299,6 +338,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT621</ro.product.model>
         <ro.product.device>umts_primus</ro.product.device>
         <ro.product.board>MSM7630_SURF</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -306,6 +346,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>IS12M</ro.product.model>
         <ro.product.device>cdma_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>KDDI Razr</description>
     </device>
     <device>
@@ -313,6 +354,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT910</ro.product.model>
         <ro.product.device>umts_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -320,6 +362,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT910K</ro.product.model>
         <ro.product.device>umts_spyder</ro.product.device>
         <ro.product.board>spyder</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>KT Razr</description>
     </device>
     <device>
@@ -327,6 +370,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT925</ro.product.model>
         <ro.product.device>vanquish_u</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -334,6 +378,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT890</ro.product.model>
         <ro.product.device>smi</ro.product.device>
         <ro.product.board>smi</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -341,6 +386,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT905</ro.product.model>
         <ro.product.device>smq_u</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -348,6 +394,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT885</ro.product.model>
         <ro.product.device>umts_yangtze</ro.product.device>
         <ro.product.board>yangtze</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -355,6 +402,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MZ601</ro.product.model>
         <ro.product.device>umts_everest</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Xoom GSM</description>
     </device>
     <device>
@@ -362,6 +410,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Xoom</ro.product.model>
         <ro.product.device>stingray</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Verizon Xoom</description>
     </device>
     <device>
@@ -369,6 +418,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XOOM 2 ME</ro.product.model>
         <ro.product.device>fleming</ro.product.device>
         <ro.product.board>fleming</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -376,6 +426,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT800</ro.product.model>
         <ro.product.device>titanium</ro.product.device>
         <ro.product.board>titanium</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -383,6 +434,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>XT886</ro.product.model>
         <ro.product.device>umts_yangtze</ro.product.device>
         <ro.product.board>yangtze</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

@@ -24,6 +24,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>C771</ro.product.name>
         <ro.product.device>C771</ro.product.device>
         <ro.product.board>C771</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

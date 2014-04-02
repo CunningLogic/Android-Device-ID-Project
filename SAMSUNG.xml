@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R720</ro.product.model>
         <ro.product.device>SCH-R720</ro.product.device>
         <ro.product.board>SCH-R720</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-D700</ro.product.model>
         <ro.product.device>SPH-D700</ro.product.device>
         <ro.product.board>SPH-D700</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,13 +39,15 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5830</ro.product.model>
         <ro.product.device>GT-S5830</ro.product.device>
         <ro.product.board>GT-S5830</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
         <commonname>Galaxy Ace</commonname>
-        <ro.product.model>GT-S5830C</ro.product.model>
+        <ro.product.model>GT-S5830CGT-S5830C</ro.product.model>
         <ro.product.device>GT-S5830C</ro.product.device>
         <ro.product.board>cooperve</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5830i</ro.product.model>
         <ro.product.device>GT-S5830i</ro.product.device>
         <ro.product.board>cooperve</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5839i</ro.product.model>
         <ro.product.device>GT-S5839i</ro.product.device>
         <ro.product.board>cooperve</ro.product.board>
+        <iso.3166-a3>EUR</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-I619</ro.product.model>
         <ro.product.device>SCH-I619</ro.product.device>
         <ro.product.board>SCH-I619</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S7500</ro.product.model>
         <ro.product.device>GT-S7500</ro.product.device>
         <ro.product.board>GT-S7500</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S7500L</ro.product.model>
         <ro.product.device>GT-S7500L</ro.product.device>
         <ro.product.board>GT-S7500</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -87,6 +96,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.brand>codinavid</ro.product.brand>
         <ro.product.device>codinavid</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -95,6 +105,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>GT-I8160</ro.product.name>
         <ro.product.device>GT-I8160</ro.product.device>
         <ro.product.board>montblanc</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -102,6 +113,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R820</ro.product.model>
         <ro.product.device>SCH-R820</ro.product.device>
         <ro.product.board>SCH-R820</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -109,6 +121,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SAMSUNG-SGH-I827</ro.product.model>
         <ro.product.device>SGH-I827</ro.product.device>
         <ro.product.board>SGH-I827</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -116,6 +129,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R830</ro.product.model>
         <ro.product.device>infiniteusc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -123,6 +137,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I8530</ro.product.model>
         <ro.product.device>GT-I8530</ro.product.device>
         <ro.product.board>gavini</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -130,6 +145,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>EK-GC100</ro.product.model>
         <ro.product.device>gd1</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -137,6 +153,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I8262</ro.product.model>
         <ro.product.device>arubaslim</ro.product.device>
         <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -145,6 +162,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>afyonltexx</ro.product.name>
         <ro.product.device>afyonlte</ro.product.device>
         <ro.product.board>mp523x</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -152,6 +170,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R740C</ro.product.model>
         <ro.product.device>amazing3gcri</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -159,6 +178,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I8262D</ro.product.model>
         <ro.product.device>aruba3gchn</ro.product.device>
         <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -167,6 +187,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>codinaMetroPCS</ro.product.name>
         <ro.product.device>codinaMetroPCS</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>MetroPCS Galaxy Exhibit</description>
     </device>
     <device>
@@ -174,6 +195,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SGH-T679</ro.product.model>
         <ro.product.device>SGH-T679</ro.product.device>
         <ro.product.board>SGH-T679</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile Galaxy Exhibit 4G</description>
     </device>
     <device>
@@ -182,6 +204,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>wilcoxltexx</ro.product.name>
         <ro.product.device>wilcoxlte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -189,6 +212,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5660</ro.product.model>
         <ro.product.device>GT-S5660</ro.product.device>
         <ro.product.board>GT-S5660</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -197,6 +221,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>baffinxx</ro.product.name>
         <ro.product.device>baffin</ro.product.device>
         <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -205,6 +230,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>baffinlitexx</ro.product.name>
         <ro.product.device>baffinlite</ro.product.device>
         <ro.product.board>java</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -212,6 +238,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SHW-M340K</ro.product.model>
         <ro.product.device>SHW-M340K</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>KT Galaxy M Style</description>
     </device>
     <device>
@@ -219,6 +246,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9152</ro.product.model>
         <ro.product.device>crater</ro.product.device>
         <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -226,6 +254,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5570</ro.product.model>
         <ro.product.device>GT-S5570</ro.product.device>
         <ro.product.board>GT-S5570</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -233,6 +262,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S6500</ro.product.model>
         <ro.product.device>GT-S6500</ro.product.device>
         <ro.product.board>GT-S6500</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -240,6 +270,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-N7000</ro.product.model>
         <ro.product.device>GT-N7000</ro.product.device>
         <ro.product.board>GT-N7000</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>Gingerbread build.prop info</description>
     </device>
     <device>
@@ -248,6 +279,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>GT-N7000</ro.product.name>
         <ro.product.device>GT-N7000</ro.product.device>
         <ro.product.board>smdk4210</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>ICS/JB build.prop info</description>
     </device>
     <device>
@@ -255,6 +287,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SAMSUNG-SGH-I717</ro.product.model>
         <ro.product.device>SGH-I717</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&G Galaxy Note</description>
     </device>
     <device>
@@ -263,6 +296,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t03gxx</ro.product.name>
         <ro.product.device>t03g</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -271,6 +305,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0ltevzw</ro.product.name>
         <ro.product.device>t0ltevzw</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Verizon Galaxy Note II</description>
     </device>
     <device>
@@ -279,6 +314,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0lteuc</ro.product.name>
         <ro.product.device>t0lteatt</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy Note II</description>
     </device>
     <device>
@@ -287,6 +323,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0ltevl</ro.product.name>
         <ro.product.device>t0ltecan</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy Note II</description>
     </device>
     <device>
@@ -295,6 +332,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0ltetmo</ro.product.name>
         <ro.product.device>t0ltetmo</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile Galaxy Note II</description>
     </device>
     <device>
@@ -303,6 +341,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0ltevw</ro.product.name>
         <ro.product.device>t0ltecan</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy Note II</description>
     </device>
     <device>
@@ -311,6 +350,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0ltespr</ro.product.name>
         <ro.product.device>t0ltespr</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy Note II</description>
     </device>
     <device>
@@ -319,6 +359,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>t0ltexx</ro.product.name>
         <ro.product.device>t0lte</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -327,6 +368,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>ha3gxx</ro.product.name>
         <ro.product.device>ha3g</ro.product.device>
         <ro.product.board>universal5420</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -335,6 +377,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hlteuc</ro.product.name>
         <ro.product.device>hlteatt</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy Note 3</description>
     </device>
     <device>
@@ -343,6 +386,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>SC-01F</ro.product.name>
         <ro.product.device>SC-01F</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>JPN</iso.3166-a3>
         <description>docomo Galaxy Note 3 (SM-N900D)</description>
     </device>
     <device>
@@ -351,6 +395,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>SCL22</ro.product.name>
         <ro.product.device>SCL22</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>JPN</iso.3166-a3>
         <description>au Galaxy Note 3 (SM-N900J)</description>
     </device>
     <device>
@@ -359,6 +404,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hltektt</ro.product.name>
         <ro.product.device>hltektt</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>KT Galaxy Note 3</description>
     </device>
     <device>
@@ -367,6 +413,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hltelgt</ro.product.name>
         <ro.product.device>hltelgt</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>LG U+ Galaxy Note 3</description>
     </device>
     <device>
@@ -375,6 +422,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hltespr</ro.product.name>
         <ro.product.device>hltespr</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy Note 3</description>
     </device>
     <device>
@@ -383,6 +431,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hlteusc</ro.product.name>
         <ro.product.device>hlteusc</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>U.S. Cellular Galaxy Note 3</description>
     </device>
     <device>
@@ -391,6 +440,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hlteskt</ro.product.name>
         <ro.product.device>hlteskt</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>SK Telecom Galaxy Note 3</description>
     </device>
     <device>
@@ -399,6 +449,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hltetmo</ro.product.name>
         <ro.product.device>hltetmo</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile Galaxy Note 3</description>
     </device>
     <device>
@@ -406,6 +457,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-N900V</ro.product.model>
         <ro.product.device>hltevzw</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Verizon Galaxy Note 3</description>
     </device>
     <device>
@@ -413,6 +465,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-N900W8</ro.product.model>
         <ro.product.device>hltecan</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy Note 3</description>
     </device>
     <device>
@@ -421,6 +474,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>hltexx</ro.product.name>
         <ro.product.device>hlte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -429,6 +483,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>htdltezh</ro.product.name>
         <ro.product.device>htdlte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description>Chinese Galaxy Note 3</description>
     </device>
     <device>
@@ -437,6 +492,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>kona3gxx</ro.product.name>
         <ro.product.device>kona3g</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -444,6 +500,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SAMSUNG-SGH-I467</ro.product.model>
         <ro.product.device>konalteatt</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy Note 8.0</description>
     </device>
     <device>
@@ -452,6 +509,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>p4noterfxx</ro.product.name>
         <ro.product.device>p4noterf</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -460,6 +518,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>p4notewifixx</ro.product.name>
         <ro.product.device>p4notewifiww</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>WiFi only Galaxy Note 10.1</description>
     </device>
     <device>
@@ -468,6 +527,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>p4notewifiue</ro.product.name>
         <ro.product.device>p4notewifi</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>US WiFi only Galaxy Note 10.1</description>
     </device>
     <device>
@@ -475,6 +535,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-I925</ro.product.model>
         <ro.product.device>p4noteltevzw</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Verizon Galaxy Note 10.1</description>
     </device>
     <device>
@@ -482,6 +543,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SHW-M480W</ro.product.model>
         <ro.product.device>p4notewifiany</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>Korean Galaxy Note 10.1 WiFi</description>
     </device>
     <device>
@@ -489,6 +551,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-P600</ro.product.model>
         <ro.product.device>lt03wifixx</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -496,6 +559,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-P605</ro.product.model>
         <ro.product.device>lt03lte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -503,6 +567,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>YP-G70</ro.product.model>
         <ro.product.device>YP-G70</ro.product.device>
         <ro.product.board>YP-G70</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -510,6 +575,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5300</ro.product.model>
         <ro.product.device>GT-S5300</ro.product.device>
         <ro.product.board>cori</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -518,6 +584,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>superiorxx</ro.product.name>
         <ro.product.device>superior</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -526,6 +593,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>GT-I9103</ro.product.name>
         <ro.product.device>GT-I9103</ro.product.device>
         <ro.product.board>GT-I9103</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -533,6 +601,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-M830</ro.product.model>
         <ro.product.device>prevail2spr</ro.product.device>
         <ro.product.board>MSM7630_SURF</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -540,6 +609,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9000</ro.product.model>
         <ro.product.device>GT-I9000</ro.product.device>
         <ro.product.board>GT-I9000</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -547,6 +617,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SHW-M110S</ro.product.model>
         <ro.product.device>SHW-M110S</ro.product.device>
         <ro.product.board>SHW-M110S</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>SK Telecom Galaxy S</description>
     </device>
     <device>
@@ -554,6 +625,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9070</ro.product.model>
         <ro.product.device>GT-I9070</ro.product.device>
         <ro.product.board>janice</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -561,6 +633,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9070</ro.product.model>
         <ro.product.device>GT-I9070</ro.product.device>
         <ro.product.board>montblanc</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -568,6 +641,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9070P</ro.product.model>
         <ro.product.device>GT-I9070P</ro.product.device>
         <ro.product.board>janice</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -575,6 +649,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S7562</ro.product.model>
         <ro.product.device>kyleopen</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -582,6 +657,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9001</ro.product.model>
         <ro.product.device>GT-I9001</ro.product.device>
         <ro.product.board>GT-I9001</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -589,6 +665,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9000M</ro.product.model>
         <ro.product.device>GT-I9000M</ro.product.device>
         <ro.product.board>GT-I9000M</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -596,6 +673,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9003</ro.product.model>
         <ro.product.device>GT-I9003</ro.product.device>
         <ro.product.board>GT-I9003</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -603,6 +681,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9100</ro.product.model>
         <ro.product.device>GT-I9100</ro.product.device>
         <ro.product.board>GT-I9100</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>Gingerbread build.prop info</description>
     </device>
     <device>
@@ -610,6 +689,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9100</ro.product.model>
         <ro.product.device>GT-I9100</ro.product.device>
         <ro.product.board>smdk4210 </ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>ICS/JB build.prop info</description>
     </device>
     <device>
@@ -618,6 +698,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>GT-I9100G</ro.product.name>
         <ro.product.device>GT-I9100G</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -625,6 +706,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SGH-S959G</ro.product.model>
         <ro.product.device>SGH-S959G</ro.product.device>
         <ro.product.board>SGH-S959G</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Net10/Straight Talk Galaxy S II</description>
     </device>
     <device>
@@ -632,6 +714,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SGH-T989</ro.product.model>
         <ro.product.device>SGH-T989</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile Galaxy S II</description>
     </device>
     <device>
@@ -639,6 +722,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-D710</ro.product.model>
         <ro.product.device>SPH-D710</ro.product.device>
         <ro.product.board>SPH-D710</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy S II ICS build.prop info</description>
     </device>
     <device>
@@ -646,6 +730,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-D710</ro.product.model>
         <ro.product.device>SPH-D710</ro.product.device>
         <ro.product.board>smdk4210 </ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy S II JB build.prop info</description>
     </device>
     <device>
@@ -653,6 +738,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9105P</ro.product.model>
         <ro.product.device>s2vep</ro.product.device>
         <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -660,6 +746,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SAMSUNG-SGH-I727</ro.product.model>
         <ro.product.device>SGH-I727</ro.product.device>
         <ro.product.board>MSM8660_SURF</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -668,6 +755,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>m0xx</ro.product.name>
         <ro.product.device>m0</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -676,6 +764,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2vzw</ro.product.name>
         <ro.product.device>d2vzw</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Verizon Galaxy S III</description>
     </device>
     <device>
@@ -683,6 +772,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R530C</ro.product.model>
         <ro.product.device>d2cri</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Cricket Galaxy S III</description>
     </device>
     <device>
@@ -690,6 +780,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-L710</ro.product.model>
         <ro.product.device>d2spi</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>C Spire Galaxy S III</description>
     </device>
     <device>
@@ -697,6 +788,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R530M</ro.product.model>
         <ro.product.device>d2mtr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>MetroPCS Galaxy S III</description>
     </device>
     <device>
@@ -704,6 +796,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R530U</ro.product.model>
         <ro.product.device>d2usc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>US Cellular Galaxy S III</description>
     </device>
     <device>
@@ -712,6 +805,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2uc</ro.product.name>
         <ro.product.device>d2att</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy S III</description>
     </device>
     <device>
@@ -720,6 +814,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2vl</ro.product.name>
         <ro.product.device>d2can</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy S III</description>
     </device>
     <device>
@@ -728,6 +823,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2tmo<ro.product.name>
         <ro.product.device>d2tmo</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile Galaxy S III</description>
     </device>
     <device>
@@ -736,6 +832,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2ltetmo<ro.product.name>
         <ro.product.device>d2ltetmo</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>LTE-enabled T-Mobile Galaxy S III</description>
     </device>
     <device>
@@ -744,6 +841,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2vw<ro.product.name>
         <ro.product.device>d2can</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy S III</description>
     </device>
     <device>
@@ -752,6 +850,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2wx<ro.product.name>
         <ro.product.device>d2can</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>MEX</iso.3166-a3>
         <description>Mexican Galaxy S III</description>
     </device>
     <device>
@@ -760,6 +859,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>d2spr</ro.product.name>
         <ro.product.device>d2spr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy S III</description>
     </device>
     <device>
@@ -767,6 +867,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9305T</ro.product.model>
         <ro.product.device>m3</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>AUS,BRA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -775,6 +876,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>goldenxx</ro.product.name>
         <ro.product.device>golden</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -783,6 +885,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>goldenub</ro.product.name>
         <ro.product.device>golden</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -791,6 +894,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>goldennfcxx</ro.product.name>
         <ro.product.device>golden</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -799,6 +903,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>goldenlteuc</ro.product.name>
         <ro.product.device>goldenlteatt</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy S III mini</description>
     </device>
     <device>
@@ -806,6 +911,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-G730V</ro.product.model>
         <ro.product.device>goldenltevzw</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>Verizon</iso.3166-a3>
         <description>Verizon Galaxy S III mini</description>
     </device>
     <device>
@@ -814,6 +920,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>goldenltebmc</ro.product.name>
         <ro.product.device>goldenltebmc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy S III mini</description>
     </device>
     <device>
@@ -822,6 +929,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>ja3gxx</ro.product.name>
         <ro.product.device>ja3g</ro.product.device>
         <ro.product.board>universal5410</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -830,6 +938,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jfltexx</ro.product.name>
         <ro.product.device>jflte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -837,6 +946,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-I545</ro.product.model>
         <ro.product.device>jfltevzw</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Verizon Galaxy S4</description>
     </device>
     <device>
@@ -845,6 +955,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jfltelra</ro.product.name>
         <ro.product.device>jfltelra</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>US CDMA Regional Galaxy S4</description>
     </device>
     <device>
@@ -853,6 +964,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jflteusc</ro.product.name>
         <ro.product.device>jflteusc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>US Cellular Galaxy S4</description>
     </device>
     <device>
@@ -860,6 +972,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R970C</ro.product.model>
         <ro.product.device>jfltecri</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Cricket Galaxy S4</description>
     </device>
     <device>
@@ -867,6 +980,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-R970X</ro.product.model>
         <ro.product.device>jfltecsp</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>C-Spire Galaxy S4</description>
     </device>
     <device>
@@ -875,6 +989,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jflteuc</ro.product.name>
         <ro.product.device>jflteatt</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy S4</description>
     </device>
     <device>
@@ -883,6 +998,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jfltevl</ro.product.name>
         <ro.product.device>jfltecan</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Canadian Galaxy S4</description>
     </device>
     <device>
@@ -891,6 +1007,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jfltetmo</ro.product.name>
         <ro.product.device>jfltetmo</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile Galaxy S4</description>
     </device>
     <device>
@@ -899,6 +1016,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jflteMetroPCS</ro.product.name>
         <ro.product.device>jflteMetroPCS</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>MetroPCS Galaxy S4</description>
     </device>
     <device>
@@ -906,6 +1024,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SHV-E300S</ro.product.model>
         <ro.product.device>jalteskt</ro.product.device>
         <ro.product.board>universal5410</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>SK Telecom Galaxy S4</description>
     </device>
     <device>
@@ -914,6 +1033,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jfltespr</ro.product.name>
         <ro.product.device>jfltespr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy S4</description>
     </device>
     <device>
@@ -922,6 +1042,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jflterefreshspr</ro.product.name>
         <ro.product.device>jflterefreshspr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy S4 with Tri-Band LTE</description>
     </device>
     <device>
@@ -930,6 +1051,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jactiveltexx</ro.product.name>
         <ro.product.device>jactivelte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -937,6 +1059,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SAMSUNG-SGH-I537</ro.product.model>
         <ro.product.device>jactivelteatt</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>AT&T Galaxy S4 Active</description>
     </device>
     <device>
@@ -944,6 +1067,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9508</ro.product.model>
         <ro.product.device>jfltezm</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -951,6 +1075,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9505G</ro.product.model>
         <ro.product.device>jgedlte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -959,6 +1084,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serrano3gub</ro.product.name>
         <ro.product.device>serrano3g</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
         <description>Latin American non-LTE Galaxy S4 mini</description>
     </device>
     <device>
@@ -967,6 +1093,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serrano3gxx</ro.product.name>
         <ro.product.device>serrano3g</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>non-LTE Galaxy S4 mini</description>
     </device>
     <device>
@@ -975,6 +1102,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serrano3gzs</ro.product.name>
         <ro.product.device>serrano3g</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description>Chinese non-LTE Galaxy S4 mini</description>
     </device>
     <device>
@@ -982,6 +1110,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-I9195</ro.product.model>
         <ro.product.device>serranolte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>LTE Galaxy S4 mini</description>
     </device>
     <device>
@@ -990,6 +1119,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serranoltebmc</ro.product.name>
         <ro.product.device>serranoltebmc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description>Canadian Galaxy S4 mini</description>
     </device>
     <device>
@@ -998,6 +1128,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serranoltespr</ro.product.name>
         <ro.product.device>serranoltespr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint Galaxy S4 mini</description>
     </device>
     <device>
@@ -1006,6 +1137,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serranodsxx</ro.product.name>
         <ro.product.device>serranods</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1014,6 +1146,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>jfveltexx</ro.product.name>
         <ro.product.device>jfvelte</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1022,6 +1155,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>k3gduosctc</ro.product.name>
         <ro.product.device>klte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description>Chinese Galaxy S5</description>
     </device>
     <device>
@@ -1030,6 +1164,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>logan2gxx</ro.product.name>
         <ro.product.device>logan2g</ro.product.device>
         <ro.product.board>logan</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1037,6 +1172,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P1010</ro.product.model>
         <ro.product.device>GT-P1010</ro.product.device>
         <ro.product.board>GT-P1010</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1044,6 +1180,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P6800</ro.product.model>
         <ro.product.device>GT-P6800</ro.product.device>
         <ro.product.board>smdk4210</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1051,6 +1188,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P7300</ro.product.model>
         <ro.product.device>GT-P7300</ro.product.device>
         <ro.product.board>GT-P7300</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1058,6 +1196,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P7310</ro.product.model>
         <ro.product.device>GT-P7310</ro.product.device>
         <ro.product.board>GT-P7310</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1065,6 +1204,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P7500</ro.product.model>
         <ro.product.device>GT-P7500</ro.product.device>
         <ro.product.board>GT-P7500</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1072,6 +1212,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P7510</ro.product.model>
         <ro.product.device>GT-P7510</ro.product.device>
         <ro.product.board>GT-P7510</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1080,6 +1221,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>espressorfxx</ro.product.name>
         <ro.product.device>espressorf</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1087,6 +1229,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-P3110</ro.product.model>
         <ro.product.device>espressowifi</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>WiFi only Galaxy Tab 2</description>
     </device>
     <device>
@@ -1095,6 +1238,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>espressowifiue</ro.product.name>
         <ro.product.device>espressowifi</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>US WiFi only Galaxy Tab 2</description>
     </device>
     <device>
@@ -1103,6 +1247,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>espresso10rfxx</ro.product.name>
         <ro.product.device>espresso10rf</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1111,6 +1256,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>espresso10wifixx</ro.product.name>
         <ro.product.device>espresso10wifi</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>WiFi only Galaxy Tab 2 10.1</description>
     </device>
     <device>
@@ -1119,6 +1265,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>espresso10wifizc</ro.product.name>
         <ro.product.device>espresso10wifi</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
         <description>Chinese WiFi only Galaxy Tab 2 10.1</description>
     </device>
     <device>
@@ -1126,6 +1273,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SM-T311</ro.product.model>
         <ro.product.device>lt013g</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1134,6 +1282,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>santos103gxx</ro.product.name>
         <ro.product.device>santos103g</ro.product.device>
         <ro.product.board>clovertrail</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1142,6 +1291,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>santos10wifixx</ro.product.name>
         <ro.product.device>santos10wifi</ro.product.device>
         <ro.product.board>clovertrail</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description>WiFi only Galaxy Tab 3 10.1</description>
     </device>
     <device>
@@ -1149,6 +1299,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-L300</ro.product.model>
         <ro.product.device>goghspr</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1156,6 +1307,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5360</ro.product.model>
         <ro.product.device>GT-S5360</ro.product.device>
         <ro.product.board>totoro</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1163,6 +1315,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5360B</ro.product.model>
         <ro.product.device>GT-S5360B</ro.product.device>
         <ro.product.board>GT-S5360B</ro.product.board>
+        <iso.3166-a3>LAT,THA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1170,6 +1323,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5360L</ro.product.model>
         <ro.product.device>GT-S5360L</ro.product.device>
         <ro.product.board>GT-S5360L</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1177,6 +1331,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5363</ro.product.model>
         <ro.product.device>GT-S5363</ro.product.device>
         <ro.product.board>totoro</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1184,6 +1339,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S6312</ro.product.model>
         <ro.product.device>roy</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1191,6 +1347,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-I110</ro.product.model>
         <ro.product.device>SCH-I110</ro.product.device>
         <ro.product.board>SCH-I110</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1198,6 +1355,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SCH-I405</ro.product.model>
         <ro.product.device>SCH-I405</ro.product.device>
         <ro.product.board>SCH-I405</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1205,6 +1363,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SPH-M930BST</ro.product.model>
         <ro.product.device>SPH-M930BST</ro.product.device>
         <ro.product.board>SPH-M930BST</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description></description>
     </device>
 </devices>

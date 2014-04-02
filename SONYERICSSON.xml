@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>WT19i</ro.product.model>
         <ro.product.device>WT19i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>IS11S</ro.product.model>
         <ro.product.device>IS11S</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SO-02C</ro.product.model>
         <ro.product.device>SO-02C</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ST17a</ro.product.model>
         <ro.product.device>ST17a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ST17i</ro.product.model>
         <ro.product.device>ST17i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LT15a</ro.product.model>
         <ro.product.device>LT15a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LT15i</ro.product.model>
         <ro.product.device>LT15i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LT18a</ro.product.model>
         <ro.product.device>LT18a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LT18i</ro.product.model>
         <ro.product.device>LT18i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -86,6 +95,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ST15a</ro.product.model>
         <ro.product.device>ST15a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -93,6 +103,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ST15i</ro.product.model>
         <ro.product.device>ST15i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -100,6 +111,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SK17</ro.product.model>
         <ro.product.device>SK17</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -107,6 +119,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SK17i</ro.product.model>
         <ro.product.device>SK17i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -114,6 +127,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MT15a</ro.product.model>
         <ro.product.device>MT15a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -121,6 +135,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MT15i</ro.product.model>
         <ro.product.device>MT15i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -128,6 +143,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MT25i</ro.product.model>
         <ro.product.device>MT25i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -135,6 +151,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MT11a</ro.product.model>
         <ro.product.device>MT11a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -142,6 +159,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MT11i</ro.product.model>
         <ro.product.device>MT11i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -149,6 +167,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>R800a</ro.product.model>
         <ro.product.device>R800a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -156,6 +175,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>R800at</ro.product.model>
         <ro.product.device>R800at</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -163,6 +183,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>R800i</ro.product.model>
         <ro.product.device>R800i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -170,6 +191,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>R800x</ro.product.model>
         <ro.product.device>R800x</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -177,6 +199,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SO-01D</ro.product.model>
         <ro.product.device>SO-01D</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -184,6 +207,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MK16a</ro.product.model>
         <ro.product.device>MK16a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -191,6 +215,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>MK16i</ro.product.model>
         <ro.product.device>MK16i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -198,6 +223,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>SO-03C</ro.product.model>
         <ro.product.device>SO-03C</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -205,6 +231,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ST18a</ro.product.model>
         <ro.product.device>ST18a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -212,6 +239,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ST18i</ro.product.model>
         <ro.product.device>ST18i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -219,6 +247,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>E15a</ro.product.model>
         <ro.product.device>E15a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -226,6 +255,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>E15i</ro.product.model>
         <ro.product.device>E15i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -233,6 +263,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>X10a</ro.product.model>
         <ro.product.device>X10a</ro.product.device>
         <ro.product.board>es209ra</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -240,6 +271,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>X10i</ro.product.model>
         <ro.product.device>X10i</ro.product.device>
         <ro.product.board>es209ra</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -247,6 +279,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>E10a</ro.product.model>
         <ro.product.device>E10a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -254,6 +287,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>E10i</ro.product.model>
         <ro.product.device>E10i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -261,6 +295,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U20a</ro.product.model>
         <ro.product.device>U20a</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -268,6 +303,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U20i</ro.product.model>
         <ro.product.device>U20i</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

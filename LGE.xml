@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-MS910</ro.product.model>
         <ro.product.device>MS910</ro.product.device>
         <ro.product.board>lge_bryce</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-F340K</ro.product.model>
         <ro.product.device>zee</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>KT G Flex</description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-V500</ro.product.model>
         <ro.product.device>awifi</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-D800</ro.product.model>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>AT&T G2</description>
     </device>
     <device>
@@ -52,6 +56,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>g2_tmo_us</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>T-Mobile G2</description>
     </device>
     <device>
@@ -60,7 +65,8 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>g2_tmo_com</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
-        <description>T-Mobile Germany G2</description>
+        <iso.3166-a3>EUR</iso.3166-a3>
+        <description>T-Mobile Europe G2</description>
     </device>
     <device>
         <commonname>G2</commonname>
@@ -68,6 +74,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>g2_vdf_com</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>EUR</iso.3166-a3>
         <description>Vodafone G2</description>
     </device>
     <device>
@@ -76,6 +83,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>g2_bell_ca</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Bell Canada G2</description>
     </device>
     <device>
@@ -84,6 +92,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>g2_rgs_ca</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Rogers G2</description>
     </device>
     <device>
@@ -92,6 +101,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>g2_tls_ca</ro.product.name>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
         <description>Telus G2</description>
     </device>
     <device>
@@ -99,6 +109,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-F320K</ro.product.model>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
         <description>KT G2</description>
     </device>
     <device>
@@ -106,6 +117,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-LS980</ro.product.model>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
         <description>Sprint G2</description>
     </device>
     <device>
@@ -113,6 +125,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>L-01F</ro.product.model>
         <ro.product.device>g2</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
+        <iso.3166-a3>JPN</iso.3166-a3>
         <description>docomo G2</description>
     </device>
     <device>
@@ -120,6 +133,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P999</ro.product.model>
         <ro.product.device>p999</ro.product.device>
         <ro.product.board>p999</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -127,6 +141,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-MS770</ro.product.model>
         <ro.product.device>l0</ro.product.device>
         <ro.product.board>L0</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -134,6 +149,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-C800</ro.product.model>
         <ro.product.device>lgc800</ro.product.device>
         <ro.product.board>lgc800</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -141,6 +157,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P970</ro.product.model>
         <ro.product.device>blackg</ro.product.device>
         <ro.product.board>blackg</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -148,6 +165,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E720</ro.product.model>
         <ro.product.device>alessi</ro.product.device>
         <ro.product.board>alessi</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -155,6 +173,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>VS840PP</ro.product.model>
         <ro.product.device>cayman</ro.product.device>
         <ro.product.board>cayman</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -162,6 +181,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LGMS659</ro.product.model>
         <ro.product.device>fx3</ro.product.device>
         <ro.product.board>fx3mt</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>MetroPCS Optimus F3</description>
     </device>
     <device>
@@ -169,6 +189,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E970</ro.product.model>
         <ro.product.device>geeb</ro.product.device>
         <ro.product.board>gee</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>AT&T Optimus G</description>
     </device>
     <device>
@@ -176,6 +197,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-F180K</ro.product.model>
         <ro.product.device>geehrc</ro.product.device>
         <ro.product.board>gee</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>kt Optimus G</description>
     </device>
     <device>
@@ -183,6 +205,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-LS970</ro.product.model>
         <ro.product.device>geehrc4g</ro.product.device>
         <ro.product.board>gee</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Sprint Optimus G</description>
     </device>
     <device>
@@ -190,6 +213,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E980</ro.product.model>
         <ro.product.device>geefhd</ro.product.device>
         <ro.product.board>GKATT</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -197,6 +221,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E510</ro.product.model>
         <ro.product.device>univa_cis-xxx</ro.product.device>
         <ro.product.board>univa</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -204,6 +229,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LGL35G</ro.product.model>
         <ro.product.device>e0</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -211,6 +237,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E405</ro.product.model>
         <ro.product.device>e1</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -218,6 +245,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E612</ro.product.model>
         <ro.product.device>m4</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -225,6 +253,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P705</ro.product.model>
         <ro.product.device>u0</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Chinese Optimus L7</description>
     </device>
     <device>
@@ -232,6 +261,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P708g</ro.product.model>
         <ro.product.device>u0</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Mexican Optimus L7</description>
     </device>
     <device>
@@ -239,6 +269,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P760</ro.product.model>
         <ro.product.device>u2</ro.product.device>
         <ro.product.board>u2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -246,6 +277,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P768</ro.product.model>
         <ro.product.device>u2</ro.product.device>
         <ro.product.board>u2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -253,6 +285,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P769</ro.product.model>
         <ro.product.device>u2</ro.product.device>
         <ro.product.board>u2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>T-Mobile Optimus L9</description>
     </device>
     <device>
@@ -260,6 +293,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-MS695</ro.product.model>
         <ro.product.device>m3_mpcs_us</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -267,6 +301,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P350</ro.product.model>
         <ro.product.device>pecan</ro.product.device>
         <ro.product.board>pecan</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -274,6 +309,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LGL45C</ro.product.model>
         <ro.product.device>lgl45c</ro.product.device>
         <ro.product.board>lge_gelato</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -281,6 +317,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LGL55C</ro.product.model>
         <ro.product.device>lgl55c</ro.product.device>
         <ro.product.board>lge_gelato</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -288,6 +325,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LGL86C</ro.product.model>
         <ro.product.device>u0_cdma</ro.product.device>
         <ro.product.board>MSM7630_SURF</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -295,6 +333,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-VM701</ro.product.model>
         <ro.product.device>VM701</ro.product.device>
         <ro.product.board>lge_gelato</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -302,6 +341,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-E730</ro.product.model>
         <ro.product.device>victor</ro.product.device>
         <ro.product.board>victor</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -309,6 +349,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>VM670</ro.product.model>
         <ro.product.device>thunderc</ro.product.device>
         <ro.product.board>thunderc</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -316,6 +357,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P990</ro.product.model>
         <ro.product.device>star</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -323,6 +365,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P920</ro.product.model>
         <ro.product.device>cosmopolitan</ro.product.device>
         <ro.product.board>cosmo</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -330,6 +373,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P925g</ro.product.model>
         <ro.product.device>cosmo_302-720</ro.product.device>
         <ro.product.board>cosmopolitan</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Rogers Optimus 3D</description>
     </device>
     <device>
@@ -337,6 +381,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-SU760</ro.product.model>
         <ro.product.device>cosmopolitan</ro.product.device>
         <ro.product.board>cosmo</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>SK Telecom Optimus 3D</description>
     </device>
     <device>
@@ -344,6 +389,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P720</ro.product.model>
         <ro.product.device>cx2</ro.product.device>
         <ro.product.board>cx2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -351,6 +397,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P880</ro.product.model>
         <ro.product.device>x3</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -358,6 +405,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-KU5400</ro.product.model>
         <ro.product.device>p2</ro.product.device>
         <ro.product.board>p2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -365,6 +413,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>LG-P940</ro.product.model>
         <ro.product.device>p2</ro.product.device>
         <ro.product.board>p940</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

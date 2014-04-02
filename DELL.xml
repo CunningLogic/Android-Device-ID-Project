@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Dell Streak 7</ro.product.model>
         <ro.product.device>streak7</ro.product.device>
         <ro.product.board>t20</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

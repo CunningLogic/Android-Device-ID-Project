@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HUAWEI-M860</ro.product.model>
         <ro.product.device>msm7625</ro.product.device>
         <ro.product.board>M860</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U9500</ro.product.model>
         <ro.product.device>hwu9500</ro.product.device>
         <ro.product.board>U9500</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HUAWEI U9510E</ro.product.model>
         <ro.product.device>hwu9510e</ro.product.device>
         <ro.product.board>U9510E</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U8815</ro.product.model>
         <ro.product.device>hwu8815</ro.product.device>
         <ro.product.board>U8815</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HUAWEI U8825-1</ro.product.model>
         <ro.product.device>hwu8825-1</ro.product.device>
         <ro.product.board>U8825-1</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U8836D</ro.product.model>
         <ro.product.device>hwu8836D</ro.product.device>
         <ro.product.board>U8836D</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HUAWEI U8950-1</ro.product.model>
         <ro.product.device>hwu8950-1</ro.product.device>
         <ro.product.board>U8950-1</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>M865</ro.product.model>
         <ro.product.device>hwm865</ro.product.device>
         <ro.product.board>M865</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U9200</ro.product.model>
         <ro.product.device>viva</ro.product.device>
         <ro.product.board>U9200</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -86,6 +95,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Huawei P2-6011</ro.product.model>
         <ro.product.device>hwp2-6011</ro.product.device>
         <ro.product.board>P2-6011</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -93,6 +103,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>C8500</ro.product.model>
         <ro.product.device>msm7625</ro.product.device>
         <ro.product.board>C8500</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -100,6 +111,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Huawei-U8665</ro.product.model>
         <ro.product.device>hwu8665</ro.product.device>
         <ro.product.board>U8665</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -107,6 +119,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>U8860</ro.product.model>
         <ro.product.device>hwu8860</ro.product.device>
         <ro.product.board>U8860</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -114,6 +127,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HUAWEI U9508</ro.product.model>
         <ro.product.device>hwu9508</ro.product.device>
         <ro.product.board>U9508</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -121,6 +135,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HUAWEI MediaPad</ro.product.model>
         <ro.product.device>hws7300u</ro.product.device>
         <ro.product.board>hws7300u</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -128,6 +143,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>C8650</ro.product.model>
         <ro.product.device>hwc8650</ro.product.device>
         <ro.product.board>C8650</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -135,6 +151,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Vodafone 858</ro.product.model>
         <ro.product.device>hwu8160</ro.product.device>
         <ro.product.board>U8160</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

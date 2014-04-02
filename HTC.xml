@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire</ro.product.model>
         <ro.product.device>bravo</ro.product.device>
         <ro.product.board>bravo</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Desire HD</ro.product.model>
         <ro.product.device>ace</ro.product.device>
         <ro.product.board>ace</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire S</ro.product.model>
         <ro.product.device>saga</ro.product.device>
         <ro.product.board>saga</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire SV</ro.product.model>
         <ro.product.device>magnids</ro.product.device>
         <ro.product.board>magnids</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire V</ro.product.model>
         <ro.product.device>primods</ro.product.device>
         <ro.product.board>primods</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire X</ro.product.model>
         <ro.product.device>protou</ro.product.device>
         <ro.product.board>protou</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>X515e</ro.product.model>
         <ro.product.device>protou</ro.product.device>
         <ro.product.board>protou</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -72,6 +79,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire 500</ro.product.model>
         <ro.product.device>z4u</ro.product.device>
         <ro.product.board>z4u</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -79,6 +87,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Desire 500 dual sim</ro.product.model>
         <ro.product.device>z4dug</ro.product.device>
         <ro.product.board>z4dug</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -86,6 +95,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>DLX</ro.product.model>
         <ro.product.device>dlx</ro.product.device>
         <ro.product.board>dlx</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -93,6 +103,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC6435LVW</ro.product.model>
         <ro.product.device>dlx</ro.product.device>
         <ro.product.board>dlx</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -100,6 +111,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ADR6300</ro.product.model>
         <ro.product.device>inc</ro.product.device>
         <ro.product.board>inc</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -108,6 +120,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>fireball</ro.product.name>
         <ro.product.device>fireball</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -116,6 +129,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>fireball</ro.product.name>
         <ro.product.device>fireball</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -123,6 +137,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PH44100</ro.product.model>
         <ro.product.device>kingdom</ro.product.device>
         <ro.product.board>kingdom</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -130,6 +145,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PG06100</ro.product.model>
         <ro.product.device>speedy</ro.product.device>
         <ro.product.board>speedy</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -137,6 +153,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTCEVOV4G</ro.product.model>
         <ro.product.device>shooter</ro.product.device>
         <ro.product.board>shooter</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -144,6 +161,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PG86100</ro.product.model>
         <ro.product.device>shooter</ro.product.device>
         <ro.product.board>shooter</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -151,6 +169,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PC36100</ro.product.model>
         <ro.product.device>supersonic</ro.product.device>
         <ro.product.board>supersonic</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -158,6 +177,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>EVO</ro.product.model>
         <ro.product.device>jewel</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -165,6 +185,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>JEWEL</ro.product.model>
         <ro.product.device>jewel</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -172,6 +193,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Explorer A310e</ro.product.model>
         <ro.product.device>pico</ro.product.device>
         <ro.product.board>pico</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -179,6 +201,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Incredible S</ro.product.model>
         <ro.product.device>vivo</ro.product.device>
         <ro.product.board>vivo</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -186,6 +209,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>S710e</ro.product.model>
         <ro.product.device>vivo</ro.product.device>
         <ro.product.board>vivo</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -193,6 +217,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ADR6325</ro.product.model>
         <ro.product.device>lexikon</ro.product.device>
         <ro.product.board>lexikon</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -201,6 +226,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>HTCOneVZW</ro.product.name>
         <ro.product.device>m7wlv</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Verizon One</description>
     </device>
     <device>
@@ -209,6 +235,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>sprint_wwe</ro.product.name>
         <ro.product.device>m7wls</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Sprint One</description>
     </device>
     <device>
@@ -216,6 +243,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC One</ro.product.model>
         <ro.product.device>m7</ro.product.device>
         <ro.product.board>APQ8064</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -223,6 +251,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTCONE</ro.product.model>
         <ro.product.device>m7wls</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -231,6 +260,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>htc_europe</ro.product.name>
         <ro.product.device>m4</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -238,6 +268,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>VLE_U</ro.product.model>
         <ro.product.device>ville</ro.product.device>
         <ro.product.board>ville</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Snapdragon S4 One S</description>
     </device>
     <device>
@@ -245,6 +276,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC One S</ro.product.model>
         <ro.product.device>villec2</ro.product.device>
         <ro.product.board>villec2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Snapdragon S3 One S</description>
     </device>
     <device>
@@ -252,6 +284,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>C525c</ro.product.model>
         <ro.product.device>k2cl</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Boost Mobile One SV (C525c)</description>
     </device>
     <device>
@@ -259,6 +292,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>K2CL</ro.product.model>
         <ro.product.device>k2cl</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Boost Mobile One SV (C525c)</description>
     </device>
     <device>
@@ -266,6 +300,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC One V</ro.product.model>
         <ro.product.device>primoc</ro.product.device>
         <ro.product.board>primoc</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Virgin Mobile One V</description>
     </device>
     <device>
@@ -273,6 +308,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PRO_C</ro.product.model>
         <ro.product.device>primoc</ro.product.device>
         <ro.product.board>primoc</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>Virgin Mobile One V</description>
     </device>
     <device>
@@ -280,6 +316,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>EndeavorU</ro.product.model>
         <ro.product.device>endeavoru</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -287,6 +324,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC One X</ro.product.model>
         <ro.product.device>endeavoru</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -294,6 +332,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC One X</ro.product.model>
         <ro.product.device>evita</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>AT&T One X (Alt)</description>
     </device>
     <device>
@@ -301,6 +340,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>htc_evita</ro.product.model>
         <ro.product.device>evita</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>AT&T One X</description>
     </device>
     <device>
@@ -308,6 +348,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC One X+</ro.product.model>
         <ro.product.device>evitareul</ro.product.device>
         <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>AT&T One X+</description>
     </device>
     <device>
@@ -315,6 +356,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Raider X710e</ro.product.model>
         <ro.product.device>holiday</ro.product.device>
         <ro.product.board>holiday</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description>SK Telecom Raider</description>
     </device>
     <device>
@@ -322,6 +364,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ADR6425LVW</ro.product.model>
         <ro.product.device>vigor</ro.product.device>
         <ro.product.board>vigor</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -329,6 +372,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Sensation Z710a</ro.product.model>
         <ro.product.device>pyramid</ro.product.device>
         <ro.product.board>pyramid</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -336,6 +380,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ADR6400L</ro.product.model>
         <ro.product.device>mecha</ro.product.device>
         <ro.product.board>mecha</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -343,6 +388,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>HTC Wildfire S A510e</ro.product.model>
         <ro.product.device>marvel</ro.product.device>
         <ro.product.board>marvel</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

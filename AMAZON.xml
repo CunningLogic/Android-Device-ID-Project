@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>KFTHWI</ro.product.model>
         <ro.product.device>thor</ro.product.device>
         <ro.product.board>thor</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

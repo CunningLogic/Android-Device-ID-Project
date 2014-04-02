@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ME371MG</ro.product.model>
         <ro.product.device>mfld_gi</ro.product.device>
         <ro.product.board>EeePad</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>PadFone</ro.product.model>
         <ro.product.device>PadFone</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>EPAD</ro.product.model>
         <ro.product.device>EeePad</ro.product.device>
         <ro.product.board>EeePad</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>

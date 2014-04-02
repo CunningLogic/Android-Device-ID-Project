@@ -23,6 +23,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ZTE-BLADE</ro.product.model>
         <ro.product.device>blade</ro.product.device>
         <ro.product.board>blade</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -30,6 +31,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>V790</ro.product.model>
         <ro.product.device>roamer2</ro.product.device>
         <ro.product.board>roamer2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -37,6 +39,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>ZTE-Z990G</ro.product.model>
         <ro.product.device>roamer</ro.product.device>
         <ro.product.board>roamer</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -44,6 +47,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>Z665C</ro.product.model>
         <ro.product.device>seanplus</ro.product.device>
         <ro.product.board>seanplus</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -51,6 +55,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>X500</ro.product.model>
         <ro.product.device>X500</ro.product.device>
         <ro.product.board>7x27</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -58,6 +63,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>N861</ro.product.model>
         <ro.product.device>warp2</ro.product.device>
         <ro.product.board>warp2</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -65,6 +71,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>N9510</ro.product.model>
         <ro.product.device>warplte</ro.product.device>
         <ro.product.board>warplte</ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
 </devices>
