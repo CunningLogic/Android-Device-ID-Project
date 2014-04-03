@@ -44,7 +44,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Ace</commonname>
-        <ro.product.model>GT-S5830CGT-S5830C</ro.product.model>
+        <ro.product.model>GT-S5830C</ro.product.model>
         <ro.product.device>GT-S5830C</ro.product.device>
         <ro.product.board>cooperve</ro.product.board>
         <iso.3166-a3>LAT</iso.3166-a3>
@@ -87,13 +87,13 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S7500L</ro.product.model>
         <ro.product.device>GT-S7500L</ro.product.device>
         <ro.product.board>GT-S7500</ro.product.board>
-        <iso.3166-a3>LAT</iso.3166-a3>
+        <iso.3166-a3>LAT,CAR</iso.3166-a3>
         <description></description>
     </device>
     <device>
         <commonname>Galaxy Ace II e</commonname>
         <ro.product.model>SGH-T599V</ro.product.model>
-        <ro.product.brand>codinavid</ro.product.brand>
+        <ro.product.name>codinavid</ro.product.name>
         <ro.product.device>codinavid</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
@@ -243,11 +243,183 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Mega 5.8</commonname>
+        <ro.product.model>GT-I9150</ro.product.model>
+        <ro.product.name>craterssub</ro.product.name>
+        <ro.product.device>craterss</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 5.8</commonname>
         <ro.product.model>GT-I9152</ro.product.model>
+        <ro.product.name>craterxx</ro.product.name>
         <ro.product.device>crater</ro.product.device>
         <ro.product.board>capri</ro.product.board>
         <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 5.8</commonname>
+        <ro.product.model>GT-I9152</ro.product.model>
+        <ro.product.name>craterzc</ro.product.name>
+        <ro.product.device>crater</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 5.8</commonname>
+        <ro.product.model>GT-I9152</ro.product.model>
+        <ro.product.name>craterzs</ro.product.name>
+        <ro.product.device>crater</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>TWN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 5.8</commonname>
+        <ro.product.model>GT-I9158</ro.product.model>
+        <ro.product.name>cratertd3gzm</ro.product.name>
+        <ro.product.device>cratertd3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Mobile Galaxy Mega 5.8</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 5.8</commonname>
+        <ro.product.model>SCH-P709</ro.product.model>
+        <ro.product.name>crater3gctc</ro.product.name>
+        <ro.product.device>crater3gctc</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>Anycall Galaxy Mega 5.8</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9200</ro.product.model>
+        <ro.product.name>melius3gub</ro.product.name>
+        <ro.product.device>melius3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>LAT,CAR</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9200</ro.product.model>
+        <ro.product.name>melius3gxx</ro.product.name>
+        <ro.product.device>melius3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9200</ro.product.model>
+        <ro.product.name>melius3gzc</ro.product.name>
+        <ro.product.device>melius3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9200</ro.product.model>
+        <ro.product.name>melius3gzn</ro.product.name>
+        <ro.product.device>melius3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Unicom Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9200</ro.product.model>
+        <ro.product.name>melius3gzt</ro.product.name>
+        <ro.product.device>melius3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>TWN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9205</ro.product.model>
+        <ro.product.name>meliusltexx</ro.product.name>
+        <ro.product.device>meliuslte</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>GT-I9208</ro.product.model>
+        <ro.product.name>melius3gzm</ro.product.name>
+        <ro.product.device>melius3g</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Mobile Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SCH-P729</ro.product.model>
+        <ro.product.name>melius3gduosctc</ro.product.name>
+        <ro.product.device>melius3gduosctc</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>Anycall Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SCH-R960</ro.product.model>
+        <ro.product.name>meliuslteusc</ro.product.name>
+        <ro.product.device>meliuslteusc</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
+        <description>U.S. Cellular Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SAMSUNG-SGH-I527</ro.product.model>
+        <ro.product.name>meliuslteuc</ro.product.name>
+        <ro.product.device>meliuslteatt</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
+        <description>AT&T Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SGH-I527M</ro.product.model>
+        <ro.product.name>meliusltevl</ro.product.name>
+        <ro.product.device>meliusltecan</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>CAN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SGH-M819N</ro.product.model>
+        <ro.product.name>meliuslteMetroPCS</ro.product.name>
+        <ro.product.device>meliuslteMetroPCS</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
+        <description>MetroPCS Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SHV-E310S</ro.product.model>
+        <ro.product.name>meliuslteskt</ro.product.name>
+        <ro.product.device>meliuslteskt</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
+        <description>SK Telecom Galaxy Mega 6.3</description>
+    </device>
+    <device>
+        <commonname>Galaxy Mega 6.3</commonname>
+        <ro.product.model>SPH-L600</ro.product.model>
+        <ro.product.name>meliusltespr</ro.product.name>
+        <ro.product.device>meliusltespr</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
+        <description>Sprint Galaxy Mega 6.3</description>
     </device>
     <device>
         <commonname>Galaxy Mini</commonname>
@@ -324,7 +496,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>t0ltecan</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy Note II</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Note II</commonname>
@@ -342,7 +514,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>t0ltecan</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy Note II</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Note II</commonname>
@@ -466,7 +638,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>hltecan</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy Note 3</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Note 3</commonname>
@@ -484,7 +656,16 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>htdlte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <iso.3166-a3>CHN</iso.3166-a3>
-        <description>Chinese Galaxy Note 3</description>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Note 3 Neo</commonname>
+        <ro.product.model>SM-N7505</ro.product.model>
+        <ro.product.name>hlltexx</ro.product.name>
+        <ro.product.device>hllte</ro.product.device>
+        <ro.product.board>universal5260</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy Note 8.0</commonname>
@@ -528,7 +709,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>p4notewifi</ro.product.device>
         <ro.product.board>smdk4x12</ro.product.board>
         <iso.3166-a3>USA</iso.3166-a3>
-        <description>US WiFi only Galaxy Note 10.1</description>
+        <description>WiFi only Galaxy Note 10.1</description>
     </device>
     <device>
         <commonname>Galaxy Note 10.1</commonname>
@@ -797,7 +978,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>d2usc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>USA</iso.3166-a3>
-        <description>US Cellular Galaxy S III</description>
+        <description>U.S. Cellular Galaxy S III</description>
     </device>
     <device>
         <commonname>Galaxy S III</commonname>
@@ -815,7 +996,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>d2can</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy S III</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S III</commonname>
@@ -837,12 +1018,21 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy S III</commonname>
+        <ro.product.model>SGH-T999N</ro.product.model>
+        <ro.product.name>d2lteMetroPCS<ro.product.name>
+        <ro.product.device>d2lteMetroPCS</ro.product.device>
+        <ro.product.board>MSM8960</ro.product.board>
+        <iso.3166-a3>USA</iso.3166-a3>
+        <description>MetroPCS Galaxy S III</description>
+    </device>
+    <device>
+        <commonname>Galaxy S III</commonname>
         <ro.product.model>SGH-T999V</ro.product.model>
         <ro.product.name>d2vw<ro.product.name>
         <ro.product.device>d2can</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy S III</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S III</commonname>
@@ -851,7 +1041,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>d2can</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>MEX</iso.3166-a3>
-        <description>Mexican Galaxy S III</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S III</commonname>
@@ -885,7 +1075,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>goldenub</ro.product.name>
         <ro.product.device>golden</ro.product.device>
         <ro.product.board>DB8520H</ro.product.board>
-        <iso.3166-a3>LAT</iso.3166-a3>
+        <iso.3166-a3>LAT,CAR</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -921,7 +1111,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>goldenltebmc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy S III mini</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S4</commonname>
@@ -956,7 +1146,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>jfltelra</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>USA</iso.3166-a3>
-        <description>US CDMA Regional Galaxy S4</description>
+        <description>CDMA Regional Galaxy S4</description>
     </device>
     <device>
         <commonname>Galaxy S4</commonname>
@@ -965,7 +1155,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>jflteusc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>USA</iso.3166-a3>
-        <description>US Cellular Galaxy S4</description>
+        <description>U.S. Cellular Galaxy S4</description>
     </device>
     <device>
         <commonname>Galaxy S4</commonname>
@@ -999,7 +1189,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>jfltecan</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
         <iso.3166-a3>CAN</iso.3166-a3>
-        <description>Canadian Galaxy S4</description>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S4</commonname>
@@ -1084,8 +1274,8 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serrano3gub</ro.product.name>
         <ro.product.device>serrano3g</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <iso.3166-a3>LAT</iso.3166-a3>
-        <description>Latin American non-LTE Galaxy S4 mini</description>
+        <iso.3166-a3>LAT,CAR</iso.3166-a3>
+        <description>non-LTE Galaxy S4 mini</description>
     </device>
     <device>
         <commonname>Galaxy S4 mini</commonname>
@@ -1102,8 +1292,8 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serrano3gzs</ro.product.name>
         <ro.product.device>serrano3g</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <iso.3166-a3>CHN</iso.3166-a3>
-        <description>Chinese non-LTE Galaxy S4 mini</description>
+        <iso.3166-a3>CHN,TWN</iso.3166-a3>
+        <description>non-LTE Galaxy S4 mini</description>
     </device>
     <device>
         <commonname>Galaxy S4 mini</commonname>
@@ -1119,8 +1309,8 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serranoltebmc</ro.product.name>
         <ro.product.device>serranoltebmc</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <iso.3166-a3>CHN</iso.3166-a3>
-        <description>Canadian Galaxy S4 mini</description>
+        <iso.3166-a3>CAN</iso.3166-a3>
+        <description></description>
     </device>
     <device>
         <commonname>Galaxy S4 mini</commonname>
@@ -1156,7 +1346,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>klte</ro.product.device>
         <ro.product.board>MSM8974</ro.product.board>
         <iso.3166-a3>CHN</iso.3166-a3>
-        <description>Chinese Galaxy S5</description>
+        <description>Anycall Galaxy S5</description>
     </device>
     <device>
         <commonname>Galaxy Star Pro</commonname>
@@ -1239,7 +1429,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>espressowifi</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
         <iso.3166-a3>USA</iso.3166-a3>
-        <description>US WiFi only Galaxy Tab 2</description>
+        <description>WiFi only Galaxy Tab 2</description>
     </device>
     <device>
         <commonname>Galaxy Tab 2 10.1</commonname>
@@ -1266,7 +1456,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.device>espresso10wifi</ro.product.device>
         <ro.product.board>piranha</ro.product.board>
         <iso.3166-a3>CHN</iso.3166-a3>
-        <description>Chinese WiFi only Galaxy Tab 2 10.1</description>
+        <description>WiFi only Galaxy Tab 2 10.1</description>
     </device>
     <device>
         <commonname>Galaxy Tab 3 8.0</commonname>
@@ -1323,7 +1513,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5360L</ro.product.model>
         <ro.product.device>GT-S5360L</ro.product.device>
         <ro.product.board>GT-S5360L</ro.product.board>
-        <iso.3166-a3></iso.3166-a3>
+        <iso.3166-a3>LAT,CAR</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1331,7 +1521,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.model>GT-S5363</ro.product.model>
         <ro.product.device>GT-S5363</ro.product.device>
         <ro.product.board>totoro</ro.product.board>
-        <iso.3166-a3>LAT</iso.3166-a3>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
