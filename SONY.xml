@@ -249,7 +249,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>C1905</ro.product.name>
         <ro.product.device>C1905</ro.product.device>
         <ro.product.board>MSM8227</ro.product.board>
-        <iso.3166-a3></iso.3166-a3>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -335,9 +335,10 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Xperia SP</commonname>
         <ro.product.model>C5303</ro.product.model>
+        <ro.product.name>C5303</ro.product.name>
         <ro.product.device>C5303</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <iso.3166-a3></iso.3166-a3>
+        <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
     <device>
