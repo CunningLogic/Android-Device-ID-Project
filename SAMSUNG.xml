@@ -217,6 +217,24 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Grand</commonname>
+        <ro.product.model>GT-I9080L</ro.product.model>
+        <ro.product.name>baffinssvj</ro.product.name>
+        <ro.product.device>baffinss</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>LAT,CAR</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand</commonname>
+        <ro.product.model>GT-I9080L</ro.product.model>
+        <ro.product.name>baffinsswa</ro.product.name>
+        <ro.product.device>baffinss</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>PRI</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand</commonname>
         <ro.product.model>GT-I9082</ro.product.model>
         <ro.product.name>baffinxx</ro.product.name>
         <ro.product.device>baffin</ro.product.device>
@@ -225,12 +243,102 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Galaxy Grand</commonname>
+        <ro.product.model>GT-I9082</ro.product.model>
+        <ro.product.name>baffinzn</ro.product.name>
+        <ro.product.device>baffin</ro.product.device>
+        <ro.product.board>capri</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Unicom Galaxy Grand</description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand</commonname>
+        <ro.product.model>SHV-E275S</ro.product.model>
+        <ro.product.name>baffinveskt</ro.product.name>
+        <ro.product.device>baffinveskt</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3>KOR</iso.3166-a3>
+        <description>SK Telecom Galaxy Grand</description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G710</ro.product.model>
+        <ro.product.name>ms013gssxx</ro.product.name>
+        <ro.product.device>ms013gss</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G7102</ro.product.model>
+        <ro.product.name>ms013gxx</ro.product.name>
+        <ro.product.device>ms013g</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G7102</ro.product.model>
+        <ro.product.name>ms013gzt</ro.product.name>
+        <ro.product.device>ms013g</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3>TWN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G7105</ro.product.model>
+        <ro.product.name>ms01ltexx</ro.product.name>
+        <ro.product.device>ms01lte</ro.product.device>
+        <ro.product.board>MSM8926</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G7105L</ro.product.model>
+        <ro.product.name>ms01lteub</ro.product.name>
+        <ro.product.device>ms01lte</ro.product.device>
+        <ro.product.board>MSM8926</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G7106</ro.product.model>
+        <ro.product.name>ms013gzn</ro.product.name>
+        <ro.product.device>ms013g</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Unicom Galaxy Grand 2</description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand 2</commonname>
+        <ro.product.model>SM-G7108</ro.product.model>
+        <ro.product.name>ms013gzm</ro.product.name>
+        <ro.product.device>ms013g</ro.product.device>
+        <ro.product.board>MSM8226</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Mobile Galaxy Grand 2</description>
+    </device>
+    <device>
         <commonname>Galaxy Grand Neo</commonname>
         <ro.product.model>GT-I9060</ro.product.model>
         <ro.product.name>baffinlitexx</ro.product.name>
         <ro.product.device>baffinlite</ro.product.device>
         <ro.product.board>java</ro.product.board>
         <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Grand Neo</commonname>
+        <ro.product.model>GT-I9060</ro.product.model>
+        <ro.product.name>baffinlitezs</ro.product.name>
+        <ro.product.device>baffinlite</ro.product.device>
+        <ro.product.board>java</ro.product.board>
+        <iso.3166-a3>HKG,TWN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -274,7 +382,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>craterzs</ro.product.name>
         <ro.product.device>crater</ro.product.device>
         <ro.product.board>capri</ro.product.board>
-        <iso.3166-a3>TWN</iso.3166-a3>
+        <iso.3166-a3>HKG,TWN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -1292,7 +1400,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <ro.product.name>serrano3gzs</ro.product.name>
         <ro.product.device>serrano3g</ro.product.device>
         <ro.product.board>MSM8960</ro.product.board>
-        <iso.3166-a3>CHN,TWN</iso.3166-a3>
+        <iso.3166-a3>HKG,TWN</iso.3166-a3>
         <description>non-LTE Galaxy S4 mini</description>
     </device>
     <device>
