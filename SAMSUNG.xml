@@ -150,10 +150,92 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     </device>
     <device>
         <commonname>Galaxy Core</commonname>
+        <ro.product.model>GT-I8260</ro.product.model>
+        <ro.product.name>arubaslimssxx</ro.product.name>
+        <ro.product.device>arubaslimss</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core</commonname>
+        <ro.product.model>GT-I8260</ro.product.model>
+        <ro.product.name>arubaslimsszt</ro.product.name>
+        <ro.product.device>arubaslimss</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>TWN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core</commonname>
+        <ro.product.model>GT-I8260E</ro.product.model>
+        <ro.product.name>arubaslimssuh</ro.product.name>
+        <ro.product.device>arubaslimss</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>CHL</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Duos</commonname>
         <ro.product.model>GT-I8262</ro.product.model>
+        <ro.product.name>arubaslimxx</ro.product.name>
         <ro.product.device>arubaslim</ro.product.device>
         <ro.product.board>MSM8225</ro.product.board>
         <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Duos</commonname>
+        <ro.product.model>GT-I8262</ro.product.model>
+        <ro.product.name>arubaslimzh</ro.product.name>
+        <ro.product.device>arubaslim</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>HKG,TWN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Duos</commonname>
+        <ro.product.model>GT-I8262B</ro.product.model>
+        <ro.product.name>arubaslimvj</ro.product.name>
+        <ro.product.device>arubaslim</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>LAT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Duos</commonname>
+        <ro.product.model>GT-I8262D</ro.product.model>
+        <ro.product.name>aruba3gzc</ro.product.name>
+        <ro.product.device>aruba3gchn</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Duos</commonname>
+        <ro.product.model>GT-I8268</ro.product.model>
+        <ro.product.name>aruba3gzm</ro.product.name>
+        <ro.product.device>aruba3gcmcc</ro.product.device>
+        <ro.product.board>MSM8225</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>China Mobile Galaxy Core Duos</description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Plus</commonname>
+        <ro.product.model>SM-G350</ro.product.model>
+        <ro.product.name>cs02xx</ro.product.name>
+        <ro.product.device>cs02</ro.product.device>
+        <ro.product.board>hawaii</ro.product.board>
+        <iso.3166-a3>INT</iso.3166-a3>
+        <description></description>
+    </device>
+    <device>
+        <commonname>Galaxy Core Plus</commonname>
+        <ro.product.model>SM-G350</ro.product.model>
+        <ro.product.name>cs02zt</ro.product.name>
+        <ro.product.device>cs02</ro.product.device>
+        <ro.product.board>hawaii</ro.product.board>
+        <iso.3166-a3>TWN</iso.3166-a3>
         <description></description>
     </device>
     <device>
@@ -234,7 +316,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Grand</commonname>
+        <commonname>Galaxy Grand Duos</commonname>
         <ro.product.model>GT-I9082</ro.product.model>
         <ro.product.name>baffinxx</ro.product.name>
         <ro.product.device>baffin</ro.product.device>
@@ -243,7 +325,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Grand</commonname>
+        <commonname>Galaxy Grand Duos</commonname>
         <ro.product.model>GT-I9082</ro.product.model>
         <ro.product.name>baffinzn</ro.product.name>
         <ro.product.device>baffin</ro.product.device>
@@ -270,7 +352,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Grand 2</commonname>
+        <commonname>Galaxy Grand 2 Duos</commonname>
         <ro.product.model>SM-G7102</ro.product.model>
         <ro.product.name>ms013gxx</ro.product.name>
         <ro.product.device>ms013g</ro.product.device>
@@ -279,7 +361,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Grand 2</commonname>
+        <commonname>Galaxy Grand 2 Duos</commonname>
         <ro.product.model>SM-G7102</ro.product.model>
         <ro.product.name>ms013gzt</ro.product.name>
         <ro.product.device>ms013g</ro.product.device>
@@ -359,7 +441,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Mega 5.8</commonname>
+        <commonname>Galaxy Mega 5.8 Duos</commonname>
         <ro.product.model>GT-I9152</ro.product.model>
         <ro.product.name>craterxx</ro.product.name>
         <ro.product.device>crater</ro.product.device>
@@ -368,7 +450,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Mega 5.8</commonname>
+        <commonname>Galaxy Mega 5.8 Duos</commonname>
         <ro.product.model>GT-I9152</ro.product.model>
         <ro.product.name>craterzc</ro.product.name>
         <ro.product.device>crater</ro.product.device>
@@ -377,7 +459,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
-        <commonname>Galaxy Mega 5.8</commonname>
+        <commonname>Galaxy Mega 5.8 Duos</commonname>
         <ro.product.model>GT-I9152</ro.product.model>
         <ro.product.name>craterzs</ro.product.name>
         <ro.product.device>crater</ro.product.device>
@@ -1457,7 +1539,7 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description>Anycall Galaxy S5</description>
     </device>
     <device>
-        <commonname>Galaxy Star Pro</commonname>
+        <commonname>Galaxy Star Pro Duos</commonname>
         <ro.product.model>GT-S7262</ro.product.model>
         <ro.product.name>logan2gxx</ro.product.name>
         <ro.product.device>logan2g</ro.product.device>
