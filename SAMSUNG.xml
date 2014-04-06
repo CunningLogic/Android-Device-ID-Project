@@ -1548,6 +1548,15 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <description></description>
     </device>
     <device>
+        <commonname>Galaxy Style Duos</commonname>
+        <ro.product.model>SCH-I829</ro.product.model>
+        <ro.product.name>aruba3gduosctc</ro.product.name>
+        <ro.product.device>aruba3gduosctc</ro.product.device>
+        <ro.product.board>MSM8625</ro.product.board>
+        <iso.3166-a3>CHN</iso.3166-a3>
+        <description>Anycall Galaxy Style Duos</description>
+    </device>
+    <device>
         <commonname>Galaxy Tab</commonname>
         <ro.product.model>GT-P1010</ro.product.model>
         <ro.product.device>GT-P1010</ro.product.device>
