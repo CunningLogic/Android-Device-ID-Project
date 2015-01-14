@@ -263,6 +263,15 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
         <iso.3166-a3></iso.3166-a3>
         <description></description>
     </device>
+        <device>
+        <commonname>Desire 601</commonname>
+        <ro.product.model>HTC Desire 601</ro.product.model>
+        <ro.product.name>zara</ro.product.name>
+        <ro.product.device>zara</ro.product.device>
+        <ro.product.board></ro.product.board>
+        <iso.3166-a3></iso.3166-a3>
+        <description>Snapdragon 400 (8930)</description>
+    </device>
     <device>
         <commonname>One S</commonname>
         <ro.product.model>VLE_U</ro.product.model>
